@@ -1,0 +1,601 @@
+﻿id_inventario,sucursal,sku,producto,categoria,marca,presentacion,cantidad,stock_minimo,costo_unitario_usd,precio_venta_usd,valor_inventario_usd,estado_stock,fecha_corte
+INV-00001,San Salvador,GUA-0001,Arroz blanco,Abarrotes,Suli,Bolsa 1 kg,44,20,1.40,1.65,61.60,Disponible,2026-10-22
+INV-00002,San Salvador,GUA-0002,Frijol rojo,Abarrotes,Suli,Bolsa 900 g,49,20,1.50,2.20,73.50,Disponible,2026-10-22
+INV-00003,San Salvador,GUA-0003,Azúcar blanca,Abarrotes,La Cabaña,Bolsa 1 kg,6,20,0.72,1.10,4.32,Stock bajo,2026-10-22
+INV-00004,San Salvador,GUA-0004,Sal yodada,Abarrotes,Suli,Bolsa 454 g,129,20,0.33,0.45,42.57,Disponible,2026-10-22
+INV-00005,San Salvador,GUA-0005,Harina de maíz,Abarrotes,Maseca,Bolsa 1 kg,119,20,1.12,1.55,133.28,Disponible,2026-10-22
+INV-00006,San Salvador,GUA-0006,Pasta espagueti,Abarrotes,Ina,Paquete 200 g,140,20,0.47,0.65,65.80,Disponible,2026-10-22
+INV-00007,San Salvador,GUA-0007,Aceite vegetal,Abarrotes,Mazola,Botella 900 ml,162,20,1.90,2.75,307.80,Disponible,2026-10-22
+INV-00008,San Salvador,GUA-0008,Avena en hojuelas,Abarrotes,Quaker,Bolsa 400 g,23,20,1.43,2.10,32.89,Disponible,2026-10-22
+INV-00009,San Salvador,GUA-0009,Atún en agua,Abarrotes,Sardimar,Lata 140 g,50,20,1.31,1.60,65.50,Disponible,2026-10-22
+INV-00010,San Salvador,GUA-0010,Salsa de tomate,Abarrotes,Natura's,Doypack 200 g,158,20,0.50,0.75,79.00,Disponible,2026-10-22
+INV-00011,San Salvador,GUA-0011,Agua purificada,Bebidas,Cristal,Botella 1.5 L,185,20,0.58,0.70,107.30,Disponible,2026-10-22
+INV-00012,San Salvador,GUA-0012,Gaseosa cola,Bebidas,Coca-Cola,Botella 2 L,96,20,1.68,2.15,161.28,Disponible,2026-10-22
+INV-00013,San Salvador,GUA-0013,Gaseosa de limón,Bebidas,Sprite,Botella 1.5 L,137,20,1.09,1.65,149.33,Disponible,2026-10-22
+INV-00014,San Salvador,GUA-0014,Jugo de naranja,Bebidas,Del Valle,Caja 1 L,0,20,1.27,1.95,0.00,Agotado,2026-10-22
+INV-00015,San Salvador,GUA-0015,Néctar de durazno,Bebidas,Del Frutal,Lata 330 ml,205,20,0.40,0.60,82.00,Disponible,2026-10-22
+INV-00016,San Salvador,GUA-0016,Café molido,Bebidas,Musun,Bolsa 400 g,149,20,3.02,4.25,449.98,Disponible,2026-10-22
+INV-00017,San Salvador,GUA-0017,Café instantáneo,Bebidas,Nescafé,Frasco 100 g,150,20,3.24,4.50,486.00,Disponible,2026-10-22
+INV-00018,San Salvador,GUA-0018,Té de manzanilla,Bebidas,McCormick,Caja 20 sobres,181,20,1.74,2.15,314.94,Disponible,2026-10-22
+INV-00019,San Salvador,GUA-0019,Bebida deportiva,Bebidas,Gatorade,Botella 600 ml,184,20,1.09,1.30,200.56,Disponible,2026-10-22
+INV-00020,San Salvador,GUA-0020,Agua mineral,Bebidas,Salutaris,Botella 600 ml,71,20,0.59,0.90,41.89,Disponible,2026-10-22
+INV-00021,San Salvador,GUA-0021,Leche entera UHT,Lácteos y huevos,Salud,Caja 1 L,6,20,1.35,1.65,8.10,Stock bajo,2026-10-22
+INV-00022,San Salvador,GUA-0022,Leche descremada UHT,Lácteos y huevos,Dos Pinos,Caja 1 L,156,20,1.31,1.85,204.36,Disponible,2026-10-22
+INV-00023,San Salvador,GUA-0023,Yogur de fresa,Lácteos y huevos,Yes,Vaso 125 g,174,20,0.55,0.65,95.70,Disponible,2026-10-22
+INV-00024,San Salvador,GUA-0024,Yogur natural,Lácteos y huevos,Dos Pinos,Envase 1 L,25,20,3.08,3.75,77.00,Disponible,2026-10-22
+INV-00025,San Salvador,GUA-0025,Queso fresco,Lácteos y huevos,Petacones,Paquete 400 g,12,20,2.73,3.50,32.76,Stock bajo,2026-10-22
+INV-00026,San Salvador,GUA-0026,Queso mozzarella,Lácteos y huevos,Dos Pinos,Paquete 400 g,99,20,3.42,4.75,338.58,Disponible,2026-10-22
+INV-00027,San Salvador,GUA-0027,Crema láctea,Lácteos y huevos,Salud,Bolsa 400 ml,82,20,1.78,2.25,145.96,Disponible,2026-10-22
+INV-00028,San Salvador,GUA-0028,Mantequilla con sal,Lácteos y huevos,Dos Pinos,Barra 115 g,41,20,1.49,1.80,61.09,Disponible,2026-10-22
+INV-00029,San Salvador,GUA-0029,Huevos blancos,Lácteos y huevos,El Granjero,Cartón 30 unidades,8,10,3.83,5.25,30.64,Stock bajo,2026-10-22
+INV-00030,San Salvador,GUA-0030,Leche condensada,Lácteos y huevos,La Lechera,Lata 395 g,215,20,1.40,2.15,301.00,Disponible,2026-10-22
+INV-00031,San Salvador,GUA-0031,Manzana roja,Frutas y verduras,Gualmart Frescos,Bolsa 4 unidades,53,20,1.58,2.25,83.74,Disponible,2026-10-22
+INV-00032,San Salvador,GUA-0032,Banano,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,16,20,0.86,1.10,13.76,Stock bajo,2026-10-22
+INV-00033,San Salvador,GUA-0033,Naranja,Frutas y verduras,Gualmart Frescos,Malla 6 unidades,63,20,1.31,1.75,82.53,Disponible,2026-10-22
+INV-00034,San Salvador,GUA-0034,Limón,Frutas y verduras,Gualmart Frescos,Malla 12 unidades,176,20,1.10,1.50,193.60,Disponible,2026-10-22
+INV-00035,San Salvador,GUA-0035,Tomate de cocina,Frutas y verduras,Gualmart Frescos,Bandeja 500 g,75,20,0.66,0.95,49.50,Disponible,2026-10-22
+INV-00036,San Salvador,GUA-0036,Cebolla blanca,Frutas y verduras,Gualmart Frescos,Malla 1 kg,214,20,1.03,1.45,220.42,Disponible,2026-10-22
+INV-00037,San Salvador,GUA-0037,Papa blanca,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,72,20,1.20,1.60,86.40,Disponible,2026-10-22
+INV-00038,San Salvador,GUA-0038,Zanahoria,Frutas y verduras,Gualmart Frescos,Bolsa 500 g,123,20,0.51,0.75,62.73,Disponible,2026-10-22
+INV-00039,San Salvador,GUA-0039,Lechuga romana,Frutas y verduras,Gualmart Frescos,Unidad empacada,187,20,0.57,0.85,106.59,Disponible,2026-10-22
+INV-00040,San Salvador,GUA-0040,Pepino,Frutas y verduras,Gualmart Frescos,Paquete 3 unidades,153,20,0.77,1.00,117.81,Disponible,2026-10-22
+INV-00041,San Salvador,GUA-0041,Pechuga de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,42,10,3.57,5.25,149.94,Disponible,2026-10-22
+INV-00042,San Salvador,GUA-0042,Muslos de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,107,20,2.96,3.90,316.72,Disponible,2026-10-22
+INV-00043,San Salvador,GUA-0043,Carne molida de res,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,0,20,3.23,4.25,0.00,Agotado,2026-10-22
+INV-00044,San Salvador,GUA-0044,Lomo de cerdo,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,171,20,3.15,3.75,538.65,Disponible,2026-10-22
+INV-00045,San Salvador,GUA-0045,Filete de tilapia,Carnes y congelados,Gualmart Frescos,Bolsa 500 g,39,20,3.58,4.90,139.62,Disponible,2026-10-22
+INV-00046,San Salvador,GUA-0046,Camarón congelado,Carnes y congelados,Gualmart Frescos,Bolsa 400 g,18,10,4.29,6.50,77.22,Disponible,2026-10-22
+INV-00047,San Salvador,GUA-0047,Nuggets de pollo,Carnes y congelados,Toledo,Bolsa 400 g,29,20,3.12,3.95,90.48,Disponible,2026-10-22
+INV-00048,San Salvador,GUA-0048,Papas congeladas,Carnes y congelados,McCain,Bolsa 750 g,39,20,2.87,3.50,111.93,Disponible,2026-10-22
+INV-00049,San Salvador,GUA-0049,Vegetales mixtos congelados,Carnes y congelados,Great Value,Bolsa 500 g,92,20,1.53,2.25,140.76,Disponible,2026-10-22
+INV-00050,San Salvador,GUA-0050,Helado de vainilla,Carnes y congelados,Sarita,Envase 1 L,75,20,3.27,4.25,245.25,Disponible,2026-10-22
+INV-00051,San Salvador,GUA-0051,Pan de caja blanco,Panadería y snacks,Bimbo,Bolsa 560 g,206,20,1.41,2.10,290.46,Disponible,2026-10-22
+INV-00052,San Salvador,GUA-0052,Pan integral,Panadería y snacks,Bimbo,Bolsa 560 g,167,20,2.26,2.75,377.42,Disponible,2026-10-22
+INV-00053,San Salvador,GUA-0053,Tortillas de harina,Panadería y snacks,Tía Rosa,Paquete 10 unidades,83,20,1.22,1.65,101.26,Disponible,2026-10-22
+INV-00054,San Salvador,GUA-0054,Galletas de chocolate,Panadería y snacks,Oreo,Paquete 144 g,125,20,1.02,1.20,127.50,Disponible,2026-10-22
+INV-00055,San Salvador,GUA-0055,Galletas saladas,Panadería y snacks,Pozuelo,Paquete 240 g,4,20,1.22,1.45,4.88,Stock bajo,2026-10-22
+INV-00056,San Salvador,GUA-0056,Papas fritas,Panadería y snacks,Lay's,Bolsa 150 g,111,20,1.41,1.85,156.51,Disponible,2026-10-22
+INV-00057,San Salvador,GUA-0057,Nachos de queso,Panadería y snacks,Doritos,Bolsa 150 g,140,20,1.54,1.85,215.60,Disponible,2026-10-22
+INV-00058,San Salvador,GUA-0058,Cereal de maíz,Panadería y snacks,Kellogg's,Caja 300 g,34,20,2.59,3.65,88.06,Disponible,2026-10-22
+INV-00059,San Salvador,GUA-0059,Chocolate con leche,Panadería y snacks,Hershey's,Barra 43 g,186,20,0.74,1.10,137.64,Disponible,2026-10-22
+INV-00060,San Salvador,GUA-0060,Maní salado,Panadería y snacks,Diana,Bolsa 150 g,13,20,0.83,1.25,10.79,Stock bajo,2026-10-22
+INV-00061,San Salvador,GUA-0061,Detergente en polvo,Limpieza,Rinso,Bolsa 1 kg,48,20,1.98,2.75,95.04,Disponible,2026-10-22
+INV-00062,San Salvador,GUA-0062,Detergente líquido,Limpieza,Ariel,Botella 1 L,69,20,3.15,4.25,217.35,Disponible,2026-10-22
+INV-00063,San Salvador,GUA-0063,Suavizante de ropa,Limpieza,Downy,Botella 800 ml,56,20,1.98,2.95,110.88,Disponible,2026-10-22
+INV-00064,San Salvador,GUA-0064,Cloro,Limpieza,Magia Blanca,Botella 1 L,92,20,0.79,1.10,72.68,Disponible,2026-10-22
+INV-00065,San Salvador,GUA-0065,Desinfectante de pisos,Limpieza,Fabuloso,Botella 1 L,40,20,1.33,1.95,53.20,Disponible,2026-10-22
+INV-00066,San Salvador,GUA-0066,Lavaplatos líquido,Limpieza,Axion,Botella 750 ml,161,20,1.66,2.15,267.26,Disponible,2026-10-22
+INV-00067,San Salvador,GUA-0067,Esponjas para platos,Limpieza,Scotch-Brite,Paquete 3 unidades,18,20,1.28,1.75,23.04,Stock bajo,2026-10-22
+INV-00068,San Salvador,GUA-0068,Bolsas para basura,Limpieza,Great Value,Paquete 20 unidades,44,20,1.94,2.45,85.36,Disponible,2026-10-22
+INV-00069,San Salvador,GUA-0069,Limpiavidrios,Limpieza,Windex,Atomizador 650 ml,81,20,2.76,3.25,223.56,Disponible,2026-10-22
+INV-00070,San Salvador,GUA-0070,Escoba multiusos,Limpieza,Suli,Unidad,16,20,2.66,3.50,42.56,Stock bajo,2026-10-22
+INV-00071,San Salvador,GUA-0071,Champú hidratante,Cuidado personal,Pantene,Botella 400 ml,123,20,3.47,4.95,426.81,Disponible,2026-10-22
+INV-00072,San Salvador,GUA-0072,Acondicionador,Cuidado personal,Sedal,Botella 340 ml,63,20,2.85,3.75,179.55,Disponible,2026-10-22
+INV-00073,San Salvador,GUA-0073,Jabón de tocador,Cuidado personal,Dove,Paquete 3 barras,120,20,2.47,3.25,296.40,Disponible,2026-10-22
+INV-00074,San Salvador,GUA-0074,Pasta dental,Cuidado personal,Colgate,Tubo 150 ml,137,20,1.88,2.65,257.56,Disponible,2026-10-22
+INV-00075,San Salvador,GUA-0075,Cepillo dental,Cuidado personal,Oral-B,Unidad,199,20,1.35,1.85,268.65,Disponible,2026-10-22
+INV-00076,San Salvador,GUA-0076,Desodorante en barra,Cuidado personal,Rexona,Barra 50 g,163,20,2.76,3.25,449.88,Disponible,2026-10-22
+INV-00077,San Salvador,GUA-0077,Papel higiénico,Cuidado personal,Scott,Paquete 12 rollos,73,10,3.85,5.75,281.05,Disponible,2026-10-22
+INV-00078,San Salvador,GUA-0078,Toallas sanitarias,Cuidado personal,Saba,Paquete 10 unidades,10,20,1.47,1.75,14.70,Stock bajo,2026-10-22
+INV-00079,San Salvador,GUA-0079,Pañales talla M,Cuidado personal,Huggies,Paquete 40 unidades,18,10,9.31,10.95,167.58,Disponible,2026-10-22
+INV-00080,San Salvador,GUA-0080,Protector solar FPS 50,Cuidado personal,Nivea,Tubo 200 ml,80,10,8.75,12.50,700.00,Disponible,2026-10-22
+INV-00081,San Salvador,GUA-0081,Sartén antiadherente,Hogar y cocina,Mainstays,Unidad 24 cm,6,10,10.62,12.95,63.72,Stock bajo,2026-10-22
+INV-00082,San Salvador,GUA-0082,Olla con tapa,Hogar y cocina,Mainstays,Unidad 3 L,10,10,12.60,17.50,126.00,Stock bajo,2026-10-22
+INV-00083,San Salvador,GUA-0083,Vasos de vidrio,Hogar y cocina,Crisa,Juego 6 unidades,78,10,4.87,6.95,379.86,Disponible,2026-10-22
+INV-00084,San Salvador,GUA-0084,Platos de cerámica,Hogar y cocina,Mainstays,Juego 4 unidades,9,10,7.86,9.95,70.74,Stock bajo,2026-10-22
+INV-00085,San Salvador,GUA-0085,Cubiertos de acero,Hogar y cocina,Mainstays,Juego 16 piezas,3,10,6.55,8.50,19.65,Stock bajo,2026-10-22
+INV-00086,San Salvador,GUA-0086,Recipientes herméticos,Hogar y cocina,Great Value,Juego 3 unidades,3,20,3.47,4.75,10.41,Stock bajo,2026-10-22
+INV-00087,San Salvador,GUA-0087,Toalla de baño,Hogar y cocina,Mainstays,Unidad 70 x 140 cm,41,10,5.53,6.50,226.73,Disponible,2026-10-22
+INV-00088,San Salvador,GUA-0088,Almohada estándar,Hogar y cocina,Mainstays,Unidad,83,10,6.52,7.95,541.16,Disponible,2026-10-22
+INV-00089,San Salvador,GUA-0089,Sábanas matrimoniales,Hogar y cocina,Mainstays,Juego 3 piezas,87,10,14.36,19.95,1249.32,Disponible,2026-10-22
+INV-00090,San Salvador,GUA-0090,Bombilla LED,Hogar y cocina,Philips,Unidad 9 W,0,20,1.88,2.50,0.00,Agotado,2026-10-22
+INV-00091,San Salvador,GUA-0091,Audífonos alámbricos,Electrónica y electrodomésticos,Sony,Unidad,10,10,8.55,12.95,85.50,Stock bajo,2026-10-22
+INV-00092,San Salvador,GUA-0092,Audífonos Bluetooth,Electrónica y electrodomésticos,JBL,Unidad,26,5,28.76,39.95,747.76,Disponible,2026-10-22
+INV-00093,San Salvador,GUA-0093,Cable USB-C,Electrónica y electrodomésticos,Onn,Unidad 1 m,73,20,3.27,4.95,238.71,Disponible,2026-10-22
+INV-00094,San Salvador,GUA-0094,Cargador USB,Electrónica y electrodomésticos,Onn,Unidad 20 W,51,10,7.46,9.95,380.46,Disponible,2026-10-22
+INV-00095,San Salvador,GUA-0095,Memoria USB,Electrónica y electrodomésticos,Kingston,Unidad 64 GB,61,10,6.12,7.95,373.32,Disponible,2026-10-22
+INV-00096,San Salvador,GUA-0096,Mouse inalámbrico,Electrónica y electrodomésticos,Logitech,Unidad,5,10,10.91,14.95,54.55,Stock bajo,2026-10-22
+INV-00097,San Salvador,GUA-0097,Licuadora,Electrónica y electrodomésticos,Oster,Unidad 1.5 L,54,5,33.47,49.95,1807.38,Disponible,2026-10-22
+INV-00098,San Salvador,GUA-0098,Cafetera de goteo,Electrónica y electrodomésticos,Black+Decker,Unidad 12 tazas,6,5,21.26,29.95,127.56,Disponible,2026-10-22
+INV-00099,San Salvador,GUA-0099,Plancha de vapor,Electrónica y electrodomésticos,Oster,Unidad,42,5,20.71,24.95,869.82,Disponible,2026-10-22
+INV-00100,San Salvador,GUA-0100,Ventilador de pedestal,Electrónica y electrodomésticos,Durabrand,Unidad 16 pulgadas,10,5,26.21,34.95,262.10,Disponible,2026-10-22
+INV-00101,San Salvador,GUA-0101,Camiseta blanca talla M,Ropa y accesorios,George,Unidad,75,10,4.22,5.95,316.50,Disponible,2026-10-22
+INV-00102,San Salvador,GUA-0102,Camiseta negra talla L,Ropa y accesorios,George,Unidad,55,10,5.06,5.95,278.30,Disponible,2026-10-22
+INV-00103,San Salvador,GUA-0103,Blusa beige talla M,Ropa y accesorios,George,Unidad,42,10,7.96,9.95,334.32,Disponible,2026-10-22
+INV-00104,San Salvador,GUA-0104,Pantalón de mezclilla talla 30,Ropa y accesorios,George,Unidad,31,10,14.59,18.95,452.29,Disponible,2026-10-22
+INV-00105,San Salvador,GUA-0105,Pantalón deportivo talla L,Ropa y accesorios,Athletic Works,Unidad,80,10,11.01,12.95,880.80,Disponible,2026-10-22
+INV-00106,San Salvador,GUA-0106,Calcetines talla 35-39,Ropa y accesorios,George,Paquete 3 pares,177,20,3.56,4.50,630.12,Disponible,2026-10-22
+INV-00107,San Salvador,GUA-0107,Pijama talla M,Ropa y accesorios,George,Juego 2 piezas,94,10,10.32,14.95,970.08,Disponible,2026-10-22
+INV-00108,San Salvador,GUA-0108,Sandalias talla 38,Ropa y accesorios,George,Par,96,10,5.80,7.95,556.80,Disponible,2026-10-22
+INV-00109,San Salvador,GUA-0109,Gorra ajustable,Ropa y accesorios,Athletic Works,Unidad,49,10,3.80,5.50,186.20,Disponible,2026-10-22
+INV-00110,San Salvador,GUA-0110,Mochila escolar,Ropa y accesorios,Onn,Unidad,24,10,12.20,16.95,292.80,Disponible,2026-10-22
+INV-00111,San Salvador,GUA-0111,Alimento para perro adulto,Mascotas y jardín,Dog Chow,Bolsa 2 kg,28,10,6.52,7.95,182.56,Disponible,2026-10-22
+INV-00112,San Salvador,GUA-0112,Alimento para gato adulto,Mascotas y jardín,Cat Chow,Bolsa 1.5 kg,24,10,6.97,8.50,167.28,Disponible,2026-10-22
+INV-00113,San Salvador,GUA-0113,Alimento húmedo para gato,Mascotas y jardín,Whiskas,Sobre 85 g,60,20,0.55,0.75,33.00,Disponible,2026-10-22
+INV-00114,San Salvador,GUA-0114,Arena para gato,Mascotas y jardín,Great Value,Bolsa 4 kg,88,10,4.94,5.95,434.72,Disponible,2026-10-22
+INV-00115,San Salvador,GUA-0115,Champú para perro,Mascotas y jardín,Hartz,Botella 532 ml,54,10,4.10,5.25,221.40,Disponible,2026-10-22
+INV-00116,San Salvador,GUA-0116,Plato para mascota,Mascotas y jardín,Mainstays,Unidad 500 ml,183,20,2.08,2.50,380.64,Disponible,2026-10-22
+INV-00117,San Salvador,GUA-0117,Maceta plástica,Mascotas y jardín,Mainstays,Unidad 20 cm,150,20,2.27,2.95,340.50,Disponible,2026-10-22
+INV-00118,San Salvador,GUA-0118,Tierra abonada,Mascotas y jardín,Gualmart Jardín,Bolsa 5 kg,34,20,2.66,3.50,90.44,Disponible,2026-10-22
+INV-00119,San Salvador,GUA-0119,Manguera de jardín,Mascotas y jardín,Mainstays,Unidad 15 m,7,10,10.76,14.95,75.32,Stock bajo,2026-10-22
+INV-00120,San Salvador,GUA-0120,Regadera de jardín,Mascotas y jardín,Mainstays,Unidad 5 L,16,10,4.80,6.95,76.80,Disponible,2026-10-22
+INV-00121,Santa Ana,GUA-0001,Arroz blanco,Abarrotes,Suli,Bolsa 1 kg,0,20,1.40,1.65,0.00,Agotado,2026-10-22
+INV-00122,Santa Ana,GUA-0002,Frijol rojo,Abarrotes,Suli,Bolsa 900 g,88,20,1.50,2.20,132.00,Disponible,2026-10-22
+INV-00123,Santa Ana,GUA-0003,Azúcar blanca,Abarrotes,La Cabaña,Bolsa 1 kg,15,20,0.72,1.10,10.80,Stock bajo,2026-10-22
+INV-00124,Santa Ana,GUA-0004,Sal yodada,Abarrotes,Suli,Bolsa 454 g,130,20,0.33,0.45,42.90,Disponible,2026-10-22
+INV-00125,Santa Ana,GUA-0005,Harina de maíz,Abarrotes,Maseca,Bolsa 1 kg,49,20,1.12,1.55,54.88,Disponible,2026-10-22
+INV-00126,Santa Ana,GUA-0006,Pasta espagueti,Abarrotes,Ina,Paquete 200 g,5,20,0.47,0.65,2.35,Stock bajo,2026-10-22
+INV-00127,Santa Ana,GUA-0007,Aceite vegetal,Abarrotes,Mazola,Botella 900 ml,115,20,1.90,2.75,218.50,Disponible,2026-10-22
+INV-00128,Santa Ana,GUA-0008,Avena en hojuelas,Abarrotes,Quaker,Bolsa 400 g,58,20,1.43,2.10,82.94,Disponible,2026-10-22
+INV-00129,Santa Ana,GUA-0009,Atún en agua,Abarrotes,Sardimar,Lata 140 g,31,20,1.31,1.60,40.61,Disponible,2026-10-22
+INV-00130,Santa Ana,GUA-0010,Salsa de tomate,Abarrotes,Natura's,Doypack 200 g,31,20,0.50,0.75,15.50,Disponible,2026-10-22
+INV-00131,Santa Ana,GUA-0011,Agua purificada,Bebidas,Cristal,Botella 1.5 L,74,20,0.58,0.70,42.92,Disponible,2026-10-22
+INV-00132,Santa Ana,GUA-0012,Gaseosa cola,Bebidas,Coca-Cola,Botella 2 L,47,20,1.68,2.15,78.96,Disponible,2026-10-22
+INV-00133,Santa Ana,GUA-0013,Gaseosa de limón,Bebidas,Sprite,Botella 1.5 L,125,20,1.09,1.65,136.25,Disponible,2026-10-22
+INV-00134,Santa Ana,GUA-0014,Jugo de naranja,Bebidas,Del Valle,Caja 1 L,60,20,1.27,1.95,76.20,Disponible,2026-10-22
+INV-00135,Santa Ana,GUA-0015,Néctar de durazno,Bebidas,Del Frutal,Lata 330 ml,81,20,0.40,0.60,32.40,Disponible,2026-10-22
+INV-00136,Santa Ana,GUA-0016,Café molido,Bebidas,Musun,Bolsa 400 g,66,20,3.02,4.25,199.32,Disponible,2026-10-22
+INV-00137,Santa Ana,GUA-0017,Café instantáneo,Bebidas,Nescafé,Frasco 100 g,27,20,3.24,4.50,87.48,Disponible,2026-10-22
+INV-00138,Santa Ana,GUA-0018,Té de manzanilla,Bebidas,McCormick,Caja 20 sobres,11,20,1.74,2.15,19.14,Stock bajo,2026-10-22
+INV-00139,Santa Ana,GUA-0019,Bebida deportiva,Bebidas,Gatorade,Botella 600 ml,126,20,1.09,1.30,137.34,Disponible,2026-10-22
+INV-00140,Santa Ana,GUA-0020,Agua mineral,Bebidas,Salutaris,Botella 600 ml,84,20,0.59,0.90,49.56,Disponible,2026-10-22
+INV-00141,Santa Ana,GUA-0021,Leche entera UHT,Lácteos y huevos,Salud,Caja 1 L,48,20,1.35,1.65,64.80,Disponible,2026-10-22
+INV-00142,Santa Ana,GUA-0022,Leche descremada UHT,Lácteos y huevos,Dos Pinos,Caja 1 L,30,20,1.31,1.85,39.30,Disponible,2026-10-22
+INV-00143,Santa Ana,GUA-0023,Yogur de fresa,Lácteos y huevos,Yes,Vaso 125 g,77,20,0.55,0.65,42.35,Disponible,2026-10-22
+INV-00144,Santa Ana,GUA-0024,Yogur natural,Lácteos y huevos,Dos Pinos,Envase 1 L,15,20,3.08,3.75,46.20,Stock bajo,2026-10-22
+INV-00145,Santa Ana,GUA-0025,Queso fresco,Lácteos y huevos,Petacones,Paquete 400 g,79,20,2.73,3.50,215.67,Disponible,2026-10-22
+INV-00146,Santa Ana,GUA-0026,Queso mozzarella,Lácteos y huevos,Dos Pinos,Paquete 400 g,70,20,3.42,4.75,239.40,Disponible,2026-10-22
+INV-00147,Santa Ana,GUA-0027,Crema láctea,Lácteos y huevos,Salud,Bolsa 400 ml,92,20,1.78,2.25,163.76,Disponible,2026-10-22
+INV-00148,Santa Ana,GUA-0028,Mantequilla con sal,Lácteos y huevos,Dos Pinos,Barra 115 g,92,20,1.49,1.80,137.08,Disponible,2026-10-22
+INV-00149,Santa Ana,GUA-0029,Huevos blancos,Lácteos y huevos,El Granjero,Cartón 30 unidades,76,10,3.83,5.25,291.08,Disponible,2026-10-22
+INV-00150,Santa Ana,GUA-0030,Leche condensada,Lácteos y huevos,La Lechera,Lata 395 g,158,20,1.40,2.15,221.20,Disponible,2026-10-22
+INV-00151,Santa Ana,GUA-0031,Manzana roja,Frutas y verduras,Gualmart Frescos,Bolsa 4 unidades,28,20,1.58,2.25,44.24,Disponible,2026-10-22
+INV-00152,Santa Ana,GUA-0032,Banano,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,9,20,0.86,1.10,7.74,Stock bajo,2026-10-22
+INV-00153,Santa Ana,GUA-0033,Naranja,Frutas y verduras,Gualmart Frescos,Malla 6 unidades,9,20,1.31,1.75,11.79,Stock bajo,2026-10-22
+INV-00154,Santa Ana,GUA-0034,Limón,Frutas y verduras,Gualmart Frescos,Malla 12 unidades,0,20,1.10,1.50,0.00,Agotado,2026-10-22
+INV-00155,Santa Ana,GUA-0035,Tomate de cocina,Frutas y verduras,Gualmart Frescos,Bandeja 500 g,109,20,0.66,0.95,71.94,Disponible,2026-10-22
+INV-00156,Santa Ana,GUA-0036,Cebolla blanca,Frutas y verduras,Gualmart Frescos,Malla 1 kg,101,20,1.03,1.45,104.03,Disponible,2026-10-22
+INV-00157,Santa Ana,GUA-0037,Papa blanca,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,151,20,1.20,1.60,181.20,Disponible,2026-10-22
+INV-00158,Santa Ana,GUA-0038,Zanahoria,Frutas y verduras,Gualmart Frescos,Bolsa 500 g,19,20,0.51,0.75,9.69,Stock bajo,2026-10-22
+INV-00159,Santa Ana,GUA-0039,Lechuga romana,Frutas y verduras,Gualmart Frescos,Unidad empacada,2,20,0.57,0.85,1.14,Stock bajo,2026-10-22
+INV-00160,Santa Ana,GUA-0040,Pepino,Frutas y verduras,Gualmart Frescos,Paquete 3 unidades,21,20,0.77,1.00,16.17,Disponible,2026-10-22
+INV-00161,Santa Ana,GUA-0041,Pechuga de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,79,10,3.57,5.25,282.03,Disponible,2026-10-22
+INV-00162,Santa Ana,GUA-0042,Muslos de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,71,20,2.96,3.90,210.16,Disponible,2026-10-22
+INV-00163,Santa Ana,GUA-0043,Carne molida de res,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,38,20,3.23,4.25,122.74,Disponible,2026-10-22
+INV-00164,Santa Ana,GUA-0044,Lomo de cerdo,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,105,20,3.15,3.75,330.75,Disponible,2026-10-22
+INV-00165,Santa Ana,GUA-0045,Filete de tilapia,Carnes y congelados,Gualmart Frescos,Bolsa 500 g,52,20,3.58,4.90,186.16,Disponible,2026-10-22
+INV-00166,Santa Ana,GUA-0046,Camarón congelado,Carnes y congelados,Gualmart Frescos,Bolsa 400 g,49,10,4.29,6.50,210.21,Disponible,2026-10-22
+INV-00167,Santa Ana,GUA-0047,Nuggets de pollo,Carnes y congelados,Toledo,Bolsa 400 g,125,20,3.12,3.95,390.00,Disponible,2026-10-22
+INV-00168,Santa Ana,GUA-0048,Papas congeladas,Carnes y congelados,McCain,Bolsa 750 g,96,20,2.87,3.50,275.52,Disponible,2026-10-22
+INV-00169,Santa Ana,GUA-0049,Vegetales mixtos congelados,Carnes y congelados,Great Value,Bolsa 500 g,70,20,1.53,2.25,107.10,Disponible,2026-10-22
+INV-00170,Santa Ana,GUA-0050,Helado de vainilla,Carnes y congelados,Sarita,Envase 1 L,118,20,3.27,4.25,385.86,Disponible,2026-10-22
+INV-00171,Santa Ana,GUA-0051,Pan de caja blanco,Panadería y snacks,Bimbo,Bolsa 560 g,65,20,1.41,2.10,91.65,Disponible,2026-10-22
+INV-00172,Santa Ana,GUA-0052,Pan integral,Panadería y snacks,Bimbo,Bolsa 560 g,98,20,2.26,2.75,221.48,Disponible,2026-10-22
+INV-00173,Santa Ana,GUA-0053,Tortillas de harina,Panadería y snacks,Tía Rosa,Paquete 10 unidades,21,20,1.22,1.65,25.62,Disponible,2026-10-22
+INV-00174,Santa Ana,GUA-0054,Galletas de chocolate,Panadería y snacks,Oreo,Paquete 144 g,74,20,1.02,1.20,75.48,Disponible,2026-10-22
+INV-00175,Santa Ana,GUA-0055,Galletas saladas,Panadería y snacks,Pozuelo,Paquete 240 g,103,20,1.22,1.45,125.66,Disponible,2026-10-22
+INV-00176,Santa Ana,GUA-0056,Papas fritas,Panadería y snacks,Lay's,Bolsa 150 g,134,20,1.41,1.85,188.94,Disponible,2026-10-22
+INV-00177,Santa Ana,GUA-0057,Nachos de queso,Panadería y snacks,Doritos,Bolsa 150 g,151,20,1.54,1.85,232.54,Disponible,2026-10-22
+INV-00178,Santa Ana,GUA-0058,Cereal de maíz,Panadería y snacks,Kellogg's,Caja 300 g,64,20,2.59,3.65,165.76,Disponible,2026-10-22
+INV-00179,Santa Ana,GUA-0059,Chocolate con leche,Panadería y snacks,Hershey's,Barra 43 g,93,20,0.74,1.10,68.82,Disponible,2026-10-22
+INV-00180,Santa Ana,GUA-0060,Maní salado,Panadería y snacks,Diana,Bolsa 150 g,106,20,0.83,1.25,87.98,Disponible,2026-10-22
+INV-00181,Santa Ana,GUA-0061,Detergente en polvo,Limpieza,Rinso,Bolsa 1 kg,8,20,1.98,2.75,15.84,Stock bajo,2026-10-22
+INV-00182,Santa Ana,GUA-0062,Detergente líquido,Limpieza,Ariel,Botella 1 L,78,20,3.15,4.25,245.70,Disponible,2026-10-22
+INV-00183,Santa Ana,GUA-0063,Suavizante de ropa,Limpieza,Downy,Botella 800 ml,58,20,1.98,2.95,114.84,Disponible,2026-10-22
+INV-00184,Santa Ana,GUA-0064,Cloro,Limpieza,Magia Blanca,Botella 1 L,0,20,0.79,1.10,0.00,Agotado,2026-10-22
+INV-00185,Santa Ana,GUA-0065,Desinfectante de pisos,Limpieza,Fabuloso,Botella 1 L,142,20,1.33,1.95,188.86,Disponible,2026-10-22
+INV-00186,Santa Ana,GUA-0066,Lavaplatos líquido,Limpieza,Axion,Botella 750 ml,39,20,1.66,2.15,64.74,Disponible,2026-10-22
+INV-00187,Santa Ana,GUA-0067,Esponjas para platos,Limpieza,Scotch-Brite,Paquete 3 unidades,70,20,1.28,1.75,89.60,Disponible,2026-10-22
+INV-00188,Santa Ana,GUA-0068,Bolsas para basura,Limpieza,Great Value,Paquete 20 unidades,119,20,1.94,2.45,230.86,Disponible,2026-10-22
+INV-00189,Santa Ana,GUA-0069,Limpiavidrios,Limpieza,Windex,Atomizador 650 ml,83,20,2.76,3.25,229.08,Disponible,2026-10-22
+INV-00190,Santa Ana,GUA-0070,Escoba multiusos,Limpieza,Suli,Unidad,1,20,2.66,3.50,2.66,Stock bajo,2026-10-22
+INV-00191,Santa Ana,GUA-0071,Champú hidratante,Cuidado personal,Pantene,Botella 400 ml,48,20,3.47,4.95,166.56,Disponible,2026-10-22
+INV-00192,Santa Ana,GUA-0072,Acondicionador,Cuidado personal,Sedal,Botella 340 ml,77,20,2.85,3.75,219.45,Disponible,2026-10-22
+INV-00193,Santa Ana,GUA-0073,Jabón de tocador,Cuidado personal,Dove,Paquete 3 barras,17,20,2.47,3.25,41.99,Stock bajo,2026-10-22
+INV-00194,Santa Ana,GUA-0074,Pasta dental,Cuidado personal,Colgate,Tubo 150 ml,84,20,1.88,2.65,157.92,Disponible,2026-10-22
+INV-00195,Santa Ana,GUA-0075,Cepillo dental,Cuidado personal,Oral-B,Unidad,52,20,1.35,1.85,70.20,Disponible,2026-10-22
+INV-00196,Santa Ana,GUA-0076,Desodorante en barra,Cuidado personal,Rexona,Barra 50 g,139,20,2.76,3.25,383.64,Disponible,2026-10-22
+INV-00197,Santa Ana,GUA-0077,Papel higiénico,Cuidado personal,Scott,Paquete 12 rollos,51,10,3.85,5.75,196.35,Disponible,2026-10-22
+INV-00198,Santa Ana,GUA-0078,Toallas sanitarias,Cuidado personal,Saba,Paquete 10 unidades,134,20,1.47,1.75,196.98,Disponible,2026-10-22
+INV-00199,Santa Ana,GUA-0079,Pañales talla M,Cuidado personal,Huggies,Paquete 40 unidades,75,10,9.31,10.95,698.25,Disponible,2026-10-22
+INV-00200,Santa Ana,GUA-0080,Protector solar FPS 50,Cuidado personal,Nivea,Tubo 200 ml,68,10,8.75,12.50,595.00,Disponible,2026-10-22
+INV-00201,Santa Ana,GUA-0081,Sartén antiadherente,Hogar y cocina,Mainstays,Unidad 24 cm,71,10,10.62,12.95,754.02,Disponible,2026-10-22
+INV-00202,Santa Ana,GUA-0082,Olla con tapa,Hogar y cocina,Mainstays,Unidad 3 L,42,10,12.60,17.50,529.20,Disponible,2026-10-22
+INV-00203,Santa Ana,GUA-0083,Vasos de vidrio,Hogar y cocina,Crisa,Juego 6 unidades,46,10,4.87,6.95,224.02,Disponible,2026-10-22
+INV-00204,Santa Ana,GUA-0084,Platos de cerámica,Hogar y cocina,Mainstays,Juego 4 unidades,77,10,7.86,9.95,605.22,Disponible,2026-10-22
+INV-00205,Santa Ana,GUA-0085,Cubiertos de acero,Hogar y cocina,Mainstays,Juego 16 piezas,41,10,6.55,8.50,268.55,Disponible,2026-10-22
+INV-00206,Santa Ana,GUA-0086,Recipientes herméticos,Hogar y cocina,Great Value,Juego 3 unidades,40,20,3.47,4.75,138.80,Disponible,2026-10-22
+INV-00207,Santa Ana,GUA-0087,Toalla de baño,Hogar y cocina,Mainstays,Unidad 70 x 140 cm,41,10,5.53,6.50,226.73,Disponible,2026-10-22
+INV-00208,Santa Ana,GUA-0088,Almohada estándar,Hogar y cocina,Mainstays,Unidad,51,10,6.52,7.95,332.52,Disponible,2026-10-22
+INV-00209,Santa Ana,GUA-0089,Sábanas matrimoniales,Hogar y cocina,Mainstays,Juego 3 piezas,21,10,14.36,19.95,301.56,Disponible,2026-10-22
+INV-00210,Santa Ana,GUA-0090,Bombilla LED,Hogar y cocina,Philips,Unidad 9 W,8,20,1.88,2.50,15.04,Stock bajo,2026-10-22
+INV-00211,Santa Ana,GUA-0091,Audífonos alámbricos,Electrónica y electrodomésticos,Sony,Unidad,30,10,8.55,12.95,256.50,Disponible,2026-10-22
+INV-00212,Santa Ana,GUA-0092,Audífonos Bluetooth,Electrónica y electrodomésticos,JBL,Unidad,10,5,28.76,39.95,287.60,Disponible,2026-10-22
+INV-00213,Santa Ana,GUA-0093,Cable USB-C,Electrónica y electrodomésticos,Onn,Unidad 1 m,105,20,3.27,4.95,343.35,Disponible,2026-10-22
+INV-00214,Santa Ana,GUA-0094,Cargador USB,Electrónica y electrodomésticos,Onn,Unidad 20 W,64,10,7.46,9.95,477.44,Disponible,2026-10-22
+INV-00215,Santa Ana,GUA-0095,Memoria USB,Electrónica y electrodomésticos,Kingston,Unidad 64 GB,7,10,6.12,7.95,42.84,Stock bajo,2026-10-22
+INV-00216,Santa Ana,GUA-0096,Mouse inalámbrico,Electrónica y electrodomésticos,Logitech,Unidad,13,10,10.91,14.95,141.83,Disponible,2026-10-22
+INV-00217,Santa Ana,GUA-0097,Licuadora,Electrónica y electrodomésticos,Oster,Unidad 1.5 L,30,5,33.47,49.95,1004.10,Disponible,2026-10-22
+INV-00218,Santa Ana,GUA-0098,Cafetera de goteo,Electrónica y electrodomésticos,Black+Decker,Unidad 12 tazas,28,5,21.26,29.95,595.28,Disponible,2026-10-22
+INV-00219,Santa Ana,GUA-0099,Plancha de vapor,Electrónica y electrodomésticos,Oster,Unidad,30,5,20.71,24.95,621.30,Disponible,2026-10-22
+INV-00220,Santa Ana,GUA-0100,Ventilador de pedestal,Electrónica y electrodomésticos,Durabrand,Unidad 16 pulgadas,32,5,26.21,34.95,838.72,Disponible,2026-10-22
+INV-00221,Santa Ana,GUA-0101,Camiseta blanca talla M,Ropa y accesorios,George,Unidad,80,10,4.22,5.95,337.60,Disponible,2026-10-22
+INV-00222,Santa Ana,GUA-0102,Camiseta negra talla L,Ropa y accesorios,George,Unidad,39,10,5.06,5.95,197.34,Disponible,2026-10-22
+INV-00223,Santa Ana,GUA-0103,Blusa beige talla M,Ropa y accesorios,George,Unidad,45,10,7.96,9.95,358.20,Disponible,2026-10-22
+INV-00224,Santa Ana,GUA-0104,Pantalón de mezclilla talla 30,Ropa y accesorios,George,Unidad,14,10,14.59,18.95,204.26,Disponible,2026-10-22
+INV-00225,Santa Ana,GUA-0105,Pantalón deportivo talla L,Ropa y accesorios,Athletic Works,Unidad,62,10,11.01,12.95,682.62,Disponible,2026-10-22
+INV-00226,Santa Ana,GUA-0106,Calcetines talla 35-39,Ropa y accesorios,George,Paquete 3 pares,140,20,3.56,4.50,498.40,Disponible,2026-10-22
+INV-00227,Santa Ana,GUA-0107,Pijama talla M,Ropa y accesorios,George,Juego 2 piezas,79,10,10.32,14.95,815.28,Disponible,2026-10-22
+INV-00228,Santa Ana,GUA-0108,Sandalias talla 38,Ropa y accesorios,George,Par,0,10,5.80,7.95,0.00,Agotado,2026-10-22
+INV-00229,Santa Ana,GUA-0109,Gorra ajustable,Ropa y accesorios,Athletic Works,Unidad,14,10,3.80,5.50,53.20,Disponible,2026-10-22
+INV-00230,Santa Ana,GUA-0110,Mochila escolar,Ropa y accesorios,Onn,Unidad,7,10,12.20,16.95,85.40,Stock bajo,2026-10-22
+INV-00231,Santa Ana,GUA-0111,Alimento para perro adulto,Mascotas y jardín,Dog Chow,Bolsa 2 kg,8,10,6.52,7.95,52.16,Stock bajo,2026-10-22
+INV-00232,Santa Ana,GUA-0112,Alimento para gato adulto,Mascotas y jardín,Cat Chow,Bolsa 1.5 kg,5,10,6.97,8.50,34.85,Stock bajo,2026-10-22
+INV-00233,Santa Ana,GUA-0113,Alimento húmedo para gato,Mascotas y jardín,Whiskas,Sobre 85 g,75,20,0.55,0.75,41.25,Disponible,2026-10-22
+INV-00234,Santa Ana,GUA-0114,Arena para gato,Mascotas y jardín,Great Value,Bolsa 4 kg,54,10,4.94,5.95,266.76,Disponible,2026-10-22
+INV-00235,Santa Ana,GUA-0115,Champú para perro,Mascotas y jardín,Hartz,Botella 532 ml,59,10,4.10,5.25,241.90,Disponible,2026-10-22
+INV-00236,Santa Ana,GUA-0116,Plato para mascota,Mascotas y jardín,Mainstays,Unidad 500 ml,128,20,2.08,2.50,266.24,Disponible,2026-10-22
+INV-00237,Santa Ana,GUA-0117,Maceta plástica,Mascotas y jardín,Mainstays,Unidad 20 cm,41,20,2.27,2.95,93.07,Disponible,2026-10-22
+INV-00238,Santa Ana,GUA-0118,Tierra abonada,Mascotas y jardín,Gualmart Jardín,Bolsa 5 kg,159,20,2.66,3.50,422.94,Disponible,2026-10-22
+INV-00239,Santa Ana,GUA-0119,Manguera de jardín,Mascotas y jardín,Mainstays,Unidad 15 m,6,10,10.76,14.95,64.56,Stock bajo,2026-10-22
+INV-00240,Santa Ana,GUA-0120,Regadera de jardín,Mascotas y jardín,Mainstays,Unidad 5 L,19,10,4.80,6.95,91.20,Disponible,2026-10-22
+INV-00241,San Miguel,GUA-0001,Arroz blanco,Abarrotes,Suli,Bolsa 1 kg,31,20,1.40,1.65,43.40,Disponible,2026-10-22
+INV-00242,San Miguel,GUA-0002,Frijol rojo,Abarrotes,Suli,Bolsa 900 g,84,20,1.50,2.20,126.00,Disponible,2026-10-22
+INV-00243,San Miguel,GUA-0003,Azúcar blanca,Abarrotes,La Cabaña,Bolsa 1 kg,1,20,0.72,1.10,0.72,Stock bajo,2026-10-22
+INV-00244,San Miguel,GUA-0004,Sal yodada,Abarrotes,Suli,Bolsa 454 g,82,20,0.33,0.45,27.06,Disponible,2026-10-22
+INV-00245,San Miguel,GUA-0005,Harina de maíz,Abarrotes,Maseca,Bolsa 1 kg,4,20,1.12,1.55,4.48,Stock bajo,2026-10-22
+INV-00246,San Miguel,GUA-0006,Pasta espagueti,Abarrotes,Ina,Paquete 200 g,76,20,0.47,0.65,35.72,Disponible,2026-10-22
+INV-00247,San Miguel,GUA-0007,Aceite vegetal,Abarrotes,Mazola,Botella 900 ml,86,20,1.90,2.75,163.40,Disponible,2026-10-22
+INV-00248,San Miguel,GUA-0008,Avena en hojuelas,Abarrotes,Quaker,Bolsa 400 g,63,20,1.43,2.10,90.09,Disponible,2026-10-22
+INV-00249,San Miguel,GUA-0009,Atún en agua,Abarrotes,Sardimar,Lata 140 g,50,20,1.31,1.60,65.50,Disponible,2026-10-22
+INV-00250,San Miguel,GUA-0010,Salsa de tomate,Abarrotes,Natura's,Doypack 200 g,62,20,0.50,0.75,31.00,Disponible,2026-10-22
+INV-00251,San Miguel,GUA-0011,Agua purificada,Bebidas,Cristal,Botella 1.5 L,48,20,0.58,0.70,27.84,Disponible,2026-10-22
+INV-00252,San Miguel,GUA-0012,Gaseosa cola,Bebidas,Coca-Cola,Botella 2 L,100,20,1.68,2.15,168.00,Disponible,2026-10-22
+INV-00253,San Miguel,GUA-0013,Gaseosa de limón,Bebidas,Sprite,Botella 1.5 L,117,20,1.09,1.65,127.53,Disponible,2026-10-22
+INV-00254,San Miguel,GUA-0014,Jugo de naranja,Bebidas,Del Valle,Caja 1 L,71,20,1.27,1.95,90.17,Disponible,2026-10-22
+INV-00255,San Miguel,GUA-0015,Néctar de durazno,Bebidas,Del Frutal,Lata 330 ml,8,20,0.40,0.60,3.20,Stock bajo,2026-10-22
+INV-00256,San Miguel,GUA-0016,Café molido,Bebidas,Musun,Bolsa 400 g,10,20,3.02,4.25,30.20,Stock bajo,2026-10-22
+INV-00257,San Miguel,GUA-0017,Café instantáneo,Bebidas,Nescafé,Frasco 100 g,174,20,3.24,4.50,563.76,Disponible,2026-10-22
+INV-00258,San Miguel,GUA-0018,Té de manzanilla,Bebidas,McCormick,Caja 20 sobres,165,20,1.74,2.15,287.10,Disponible,2026-10-22
+INV-00259,San Miguel,GUA-0019,Bebida deportiva,Bebidas,Gatorade,Botella 600 ml,109,20,1.09,1.30,118.81,Disponible,2026-10-22
+INV-00260,San Miguel,GUA-0020,Agua mineral,Bebidas,Salutaris,Botella 600 ml,115,20,0.59,0.90,67.85,Disponible,2026-10-22
+INV-00261,San Miguel,GUA-0021,Leche entera UHT,Lácteos y huevos,Salud,Caja 1 L,11,20,1.35,1.65,14.85,Stock bajo,2026-10-22
+INV-00262,San Miguel,GUA-0022,Leche descremada UHT,Lácteos y huevos,Dos Pinos,Caja 1 L,0,20,1.31,1.85,0.00,Agotado,2026-10-22
+INV-00263,San Miguel,GUA-0023,Yogur de fresa,Lácteos y huevos,Yes,Vaso 125 g,146,20,0.55,0.65,80.30,Disponible,2026-10-22
+INV-00264,San Miguel,GUA-0024,Yogur natural,Lácteos y huevos,Dos Pinos,Envase 1 L,12,20,3.08,3.75,36.96,Stock bajo,2026-10-22
+INV-00265,San Miguel,GUA-0025,Queso fresco,Lácteos y huevos,Petacones,Paquete 400 g,138,20,2.73,3.50,376.74,Disponible,2026-10-22
+INV-00266,San Miguel,GUA-0026,Queso mozzarella,Lácteos y huevos,Dos Pinos,Paquete 400 g,132,20,3.42,4.75,451.44,Disponible,2026-10-22
+INV-00267,San Miguel,GUA-0027,Crema láctea,Lácteos y huevos,Salud,Bolsa 400 ml,17,20,1.78,2.25,30.26,Stock bajo,2026-10-22
+INV-00268,San Miguel,GUA-0028,Mantequilla con sal,Lácteos y huevos,Dos Pinos,Barra 115 g,90,20,1.49,1.80,134.10,Disponible,2026-10-22
+INV-00269,San Miguel,GUA-0029,Huevos blancos,Lácteos y huevos,El Granjero,Cartón 30 unidades,79,10,3.83,5.25,302.57,Disponible,2026-10-22
+INV-00270,San Miguel,GUA-0030,Leche condensada,Lácteos y huevos,La Lechera,Lata 395 g,140,20,1.40,2.15,196.00,Disponible,2026-10-22
+INV-00271,San Miguel,GUA-0031,Manzana roja,Frutas y verduras,Gualmart Frescos,Bolsa 4 unidades,172,20,1.58,2.25,271.76,Disponible,2026-10-22
+INV-00272,San Miguel,GUA-0032,Banano,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,83,20,0.86,1.10,71.38,Disponible,2026-10-22
+INV-00273,San Miguel,GUA-0033,Naranja,Frutas y verduras,Gualmart Frescos,Malla 6 unidades,43,20,1.31,1.75,56.33,Disponible,2026-10-22
+INV-00274,San Miguel,GUA-0034,Limón,Frutas y verduras,Gualmart Frescos,Malla 12 unidades,136,20,1.10,1.50,149.60,Disponible,2026-10-22
+INV-00275,San Miguel,GUA-0035,Tomate de cocina,Frutas y verduras,Gualmart Frescos,Bandeja 500 g,139,20,0.66,0.95,91.74,Disponible,2026-10-22
+INV-00276,San Miguel,GUA-0036,Cebolla blanca,Frutas y verduras,Gualmart Frescos,Malla 1 kg,118,20,1.03,1.45,121.54,Disponible,2026-10-22
+INV-00277,San Miguel,GUA-0037,Papa blanca,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,147,20,1.20,1.60,176.40,Disponible,2026-10-22
+INV-00278,San Miguel,GUA-0038,Zanahoria,Frutas y verduras,Gualmart Frescos,Bolsa 500 g,67,20,0.51,0.75,34.17,Disponible,2026-10-22
+INV-00279,San Miguel,GUA-0039,Lechuga romana,Frutas y verduras,Gualmart Frescos,Unidad empacada,111,20,0.57,0.85,63.27,Disponible,2026-10-22
+INV-00280,San Miguel,GUA-0040,Pepino,Frutas y verduras,Gualmart Frescos,Paquete 3 unidades,108,20,0.77,1.00,83.16,Disponible,2026-10-22
+INV-00281,San Miguel,GUA-0041,Pechuga de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,87,10,3.57,5.25,310.59,Disponible,2026-10-22
+INV-00282,San Miguel,GUA-0042,Muslos de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,91,20,2.96,3.90,269.36,Disponible,2026-10-22
+INV-00283,San Miguel,GUA-0043,Carne molida de res,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,153,20,3.23,4.25,494.19,Disponible,2026-10-22
+INV-00284,San Miguel,GUA-0044,Lomo de cerdo,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,42,20,3.15,3.75,132.30,Disponible,2026-10-22
+INV-00285,San Miguel,GUA-0045,Filete de tilapia,Carnes y congelados,Gualmart Frescos,Bolsa 500 g,125,20,3.58,4.90,447.50,Disponible,2026-10-22
+INV-00286,San Miguel,GUA-0046,Camarón congelado,Carnes y congelados,Gualmart Frescos,Bolsa 400 g,41,10,4.29,6.50,175.89,Disponible,2026-10-22
+INV-00287,San Miguel,GUA-0047,Nuggets de pollo,Carnes y congelados,Toledo,Bolsa 400 g,146,20,3.12,3.95,455.52,Disponible,2026-10-22
+INV-00288,San Miguel,GUA-0048,Papas congeladas,Carnes y congelados,McCain,Bolsa 750 g,25,20,2.87,3.50,71.75,Disponible,2026-10-22
+INV-00289,San Miguel,GUA-0049,Vegetales mixtos congelados,Carnes y congelados,Great Value,Bolsa 500 g,8,20,1.53,2.25,12.24,Stock bajo,2026-10-22
+INV-00290,San Miguel,GUA-0050,Helado de vainilla,Carnes y congelados,Sarita,Envase 1 L,83,20,3.27,4.25,271.41,Disponible,2026-10-22
+INV-00291,San Miguel,GUA-0051,Pan de caja blanco,Panadería y snacks,Bimbo,Bolsa 560 g,169,20,1.41,2.10,238.29,Disponible,2026-10-22
+INV-00292,San Miguel,GUA-0052,Pan integral,Panadería y snacks,Bimbo,Bolsa 560 g,162,20,2.26,2.75,366.12,Disponible,2026-10-22
+INV-00293,San Miguel,GUA-0053,Tortillas de harina,Panadería y snacks,Tía Rosa,Paquete 10 unidades,129,20,1.22,1.65,157.38,Disponible,2026-10-22
+INV-00294,San Miguel,GUA-0054,Galletas de chocolate,Panadería y snacks,Oreo,Paquete 144 g,161,20,1.02,1.20,164.22,Disponible,2026-10-22
+INV-00295,San Miguel,GUA-0055,Galletas saladas,Panadería y snacks,Pozuelo,Paquete 240 g,137,20,1.22,1.45,167.14,Disponible,2026-10-22
+INV-00296,San Miguel,GUA-0056,Papas fritas,Panadería y snacks,Lay's,Bolsa 150 g,85,20,1.41,1.85,119.85,Disponible,2026-10-22
+INV-00297,San Miguel,GUA-0057,Nachos de queso,Panadería y snacks,Doritos,Bolsa 150 g,70,20,1.54,1.85,107.80,Disponible,2026-10-22
+INV-00298,San Miguel,GUA-0058,Cereal de maíz,Panadería y snacks,Kellogg's,Caja 300 g,158,20,2.59,3.65,409.22,Disponible,2026-10-22
+INV-00299,San Miguel,GUA-0059,Chocolate con leche,Panadería y snacks,Hershey's,Barra 43 g,68,20,0.74,1.10,50.32,Disponible,2026-10-22
+INV-00300,San Miguel,GUA-0060,Maní salado,Panadería y snacks,Diana,Bolsa 150 g,16,20,0.83,1.25,13.28,Stock bajo,2026-10-22
+INV-00301,San Miguel,GUA-0061,Detergente en polvo,Limpieza,Rinso,Bolsa 1 kg,171,20,1.98,2.75,338.58,Disponible,2026-10-22
+INV-00302,San Miguel,GUA-0062,Detergente líquido,Limpieza,Ariel,Botella 1 L,155,20,3.15,4.25,488.25,Disponible,2026-10-22
+INV-00303,San Miguel,GUA-0063,Suavizante de ropa,Limpieza,Downy,Botella 800 ml,46,20,1.98,2.95,91.08,Disponible,2026-10-22
+INV-00304,San Miguel,GUA-0064,Cloro,Limpieza,Magia Blanca,Botella 1 L,96,20,0.79,1.10,75.84,Disponible,2026-10-22
+INV-00305,San Miguel,GUA-0065,Desinfectante de pisos,Limpieza,Fabuloso,Botella 1 L,66,20,1.33,1.95,87.78,Disponible,2026-10-22
+INV-00306,San Miguel,GUA-0066,Lavaplatos líquido,Limpieza,Axion,Botella 750 ml,157,20,1.66,2.15,260.62,Disponible,2026-10-22
+INV-00307,San Miguel,GUA-0067,Esponjas para platos,Limpieza,Scotch-Brite,Paquete 3 unidades,2,20,1.28,1.75,2.56,Stock bajo,2026-10-22
+INV-00308,San Miguel,GUA-0068,Bolsas para basura,Limpieza,Great Value,Paquete 20 unidades,162,20,1.94,2.45,314.28,Disponible,2026-10-22
+INV-00309,San Miguel,GUA-0069,Limpiavidrios,Limpieza,Windex,Atomizador 650 ml,53,20,2.76,3.25,146.28,Disponible,2026-10-22
+INV-00310,San Miguel,GUA-0070,Escoba multiusos,Limpieza,Suli,Unidad,146,20,2.66,3.50,388.36,Disponible,2026-10-22
+INV-00311,San Miguel,GUA-0071,Champú hidratante,Cuidado personal,Pantene,Botella 400 ml,1,20,3.47,4.95,3.47,Stock bajo,2026-10-22
+INV-00312,San Miguel,GUA-0072,Acondicionador,Cuidado personal,Sedal,Botella 340 ml,141,20,2.85,3.75,401.85,Disponible,2026-10-22
+INV-00313,San Miguel,GUA-0073,Jabón de tocador,Cuidado personal,Dove,Paquete 3 barras,108,20,2.47,3.25,266.76,Disponible,2026-10-22
+INV-00314,San Miguel,GUA-0074,Pasta dental,Cuidado personal,Colgate,Tubo 150 ml,2,20,1.88,2.65,3.76,Stock bajo,2026-10-22
+INV-00315,San Miguel,GUA-0075,Cepillo dental,Cuidado personal,Oral-B,Unidad,143,20,1.35,1.85,193.05,Disponible,2026-10-22
+INV-00316,San Miguel,GUA-0076,Desodorante en barra,Cuidado personal,Rexona,Barra 50 g,3,20,2.76,3.25,8.28,Stock bajo,2026-10-22
+INV-00317,San Miguel,GUA-0077,Papel higiénico,Cuidado personal,Scott,Paquete 12 rollos,20,10,3.85,5.75,77.00,Disponible,2026-10-22
+INV-00318,San Miguel,GUA-0078,Toallas sanitarias,Cuidado personal,Saba,Paquete 10 unidades,34,20,1.47,1.75,49.98,Disponible,2026-10-22
+INV-00319,San Miguel,GUA-0079,Pañales talla M,Cuidado personal,Huggies,Paquete 40 unidades,10,10,9.31,10.95,93.10,Stock bajo,2026-10-22
+INV-00320,San Miguel,GUA-0080,Protector solar FPS 50,Cuidado personal,Nivea,Tubo 200 ml,21,10,8.75,12.50,183.75,Disponible,2026-10-22
+INV-00321,San Miguel,GUA-0081,Sartén antiadherente,Hogar y cocina,Mainstays,Unidad 24 cm,26,10,10.62,12.95,276.12,Disponible,2026-10-22
+INV-00322,San Miguel,GUA-0082,Olla con tapa,Hogar y cocina,Mainstays,Unidad 3 L,64,10,12.60,17.50,806.40,Disponible,2026-10-22
+INV-00323,San Miguel,GUA-0083,Vasos de vidrio,Hogar y cocina,Crisa,Juego 6 unidades,39,10,4.87,6.95,189.93,Disponible,2026-10-22
+INV-00324,San Miguel,GUA-0084,Platos de cerámica,Hogar y cocina,Mainstays,Juego 4 unidades,59,10,7.86,9.95,463.74,Disponible,2026-10-22
+INV-00325,San Miguel,GUA-0085,Cubiertos de acero,Hogar y cocina,Mainstays,Juego 16 piezas,67,10,6.55,8.50,438.85,Disponible,2026-10-22
+INV-00326,San Miguel,GUA-0086,Recipientes herméticos,Hogar y cocina,Great Value,Juego 3 unidades,171,20,3.47,4.75,593.37,Disponible,2026-10-22
+INV-00327,San Miguel,GUA-0087,Toalla de baño,Hogar y cocina,Mainstays,Unidad 70 x 140 cm,50,10,5.53,6.50,276.50,Disponible,2026-10-22
+INV-00328,San Miguel,GUA-0088,Almohada estándar,Hogar y cocina,Mainstays,Unidad,18,10,6.52,7.95,117.36,Disponible,2026-10-22
+INV-00329,San Miguel,GUA-0089,Sábanas matrimoniales,Hogar y cocina,Mainstays,Juego 3 piezas,23,10,14.36,19.95,330.28,Disponible,2026-10-22
+INV-00330,San Miguel,GUA-0090,Bombilla LED,Hogar y cocina,Philips,Unidad 9 W,74,20,1.88,2.50,139.12,Disponible,2026-10-22
+INV-00331,San Miguel,GUA-0091,Audífonos alámbricos,Electrónica y electrodomésticos,Sony,Unidad,44,10,8.55,12.95,376.20,Disponible,2026-10-22
+INV-00332,San Miguel,GUA-0092,Audífonos Bluetooth,Electrónica y electrodomésticos,JBL,Unidad,16,5,28.76,39.95,460.16,Disponible,2026-10-22
+INV-00333,San Miguel,GUA-0093,Cable USB-C,Electrónica y electrodomésticos,Onn,Unidad 1 m,162,20,3.27,4.95,529.74,Disponible,2026-10-22
+INV-00334,San Miguel,GUA-0094,Cargador USB,Electrónica y electrodomésticos,Onn,Unidad 20 W,1,10,7.46,9.95,7.46,Stock bajo,2026-10-22
+INV-00335,San Miguel,GUA-0095,Memoria USB,Electrónica y electrodomésticos,Kingston,Unidad 64 GB,87,10,6.12,7.95,532.44,Disponible,2026-10-22
+INV-00336,San Miguel,GUA-0096,Mouse inalámbrico,Electrónica y electrodomésticos,Logitech,Unidad,15,10,10.91,14.95,163.65,Disponible,2026-10-22
+INV-00337,San Miguel,GUA-0097,Licuadora,Electrónica y electrodomésticos,Oster,Unidad 1.5 L,24,5,33.47,49.95,803.28,Disponible,2026-10-22
+INV-00338,San Miguel,GUA-0098,Cafetera de goteo,Electrónica y electrodomésticos,Black+Decker,Unidad 12 tazas,35,5,21.26,29.95,744.10,Disponible,2026-10-22
+INV-00339,San Miguel,GUA-0099,Plancha de vapor,Electrónica y electrodomésticos,Oster,Unidad,2,5,20.71,24.95,41.42,Stock bajo,2026-10-22
+INV-00340,San Miguel,GUA-0100,Ventilador de pedestal,Electrónica y electrodomésticos,Durabrand,Unidad 16 pulgadas,43,5,26.21,34.95,1127.03,Disponible,2026-10-22
+INV-00341,San Miguel,GUA-0101,Camiseta blanca talla M,Ropa y accesorios,George,Unidad,36,10,4.22,5.95,151.92,Disponible,2026-10-22
+INV-00342,San Miguel,GUA-0102,Camiseta negra talla L,Ropa y accesorios,George,Unidad,80,10,5.06,5.95,404.80,Disponible,2026-10-22
+INV-00343,San Miguel,GUA-0103,Blusa beige talla M,Ropa y accesorios,George,Unidad,30,10,7.96,9.95,238.80,Disponible,2026-10-22
+INV-00344,San Miguel,GUA-0104,Pantalón de mezclilla talla 30,Ropa y accesorios,George,Unidad,29,10,14.59,18.95,423.11,Disponible,2026-10-22
+INV-00345,San Miguel,GUA-0105,Pantalón deportivo talla L,Ropa y accesorios,Athletic Works,Unidad,3,10,11.01,12.95,33.03,Stock bajo,2026-10-22
+INV-00346,San Miguel,GUA-0106,Calcetines talla 35-39,Ropa y accesorios,George,Paquete 3 pares,173,20,3.56,4.50,615.88,Disponible,2026-10-22
+INV-00347,San Miguel,GUA-0107,Pijama talla M,Ropa y accesorios,George,Juego 2 piezas,83,10,10.32,14.95,856.56,Disponible,2026-10-22
+INV-00348,San Miguel,GUA-0108,Sandalias talla 38,Ropa y accesorios,George,Par,67,10,5.80,7.95,388.60,Disponible,2026-10-22
+INV-00349,San Miguel,GUA-0109,Gorra ajustable,Ropa y accesorios,Athletic Works,Unidad,5,10,3.80,5.50,19.00,Stock bajo,2026-10-22
+INV-00350,San Miguel,GUA-0110,Mochila escolar,Ropa y accesorios,Onn,Unidad,45,10,12.20,16.95,549.00,Disponible,2026-10-22
+INV-00351,San Miguel,GUA-0111,Alimento para perro adulto,Mascotas y jardín,Dog Chow,Bolsa 2 kg,74,10,6.52,7.95,482.48,Disponible,2026-10-22
+INV-00352,San Miguel,GUA-0112,Alimento para gato adulto,Mascotas y jardín,Cat Chow,Bolsa 1.5 kg,87,10,6.97,8.50,606.39,Disponible,2026-10-22
+INV-00353,San Miguel,GUA-0113,Alimento húmedo para gato,Mascotas y jardín,Whiskas,Sobre 85 g,0,20,0.55,0.75,0.00,Agotado,2026-10-22
+INV-00354,San Miguel,GUA-0114,Arena para gato,Mascotas y jardín,Great Value,Bolsa 4 kg,52,10,4.94,5.95,256.88,Disponible,2026-10-22
+INV-00355,San Miguel,GUA-0115,Champú para perro,Mascotas y jardín,Hartz,Botella 532 ml,14,10,4.10,5.25,57.40,Disponible,2026-10-22
+INV-00356,San Miguel,GUA-0116,Plato para mascota,Mascotas y jardín,Mainstays,Unidad 500 ml,19,20,2.08,2.50,39.52,Stock bajo,2026-10-22
+INV-00357,San Miguel,GUA-0117,Maceta plástica,Mascotas y jardín,Mainstays,Unidad 20 cm,26,20,2.27,2.95,59.02,Disponible,2026-10-22
+INV-00358,San Miguel,GUA-0118,Tierra abonada,Mascotas y jardín,Gualmart Jardín,Bolsa 5 kg,89,20,2.66,3.50,236.74,Disponible,2026-10-22
+INV-00359,San Miguel,GUA-0119,Manguera de jardín,Mascotas y jardín,Mainstays,Unidad 15 m,33,10,10.76,14.95,355.08,Disponible,2026-10-22
+INV-00360,San Miguel,GUA-0120,Regadera de jardín,Mascotas y jardín,Mainstays,Unidad 5 L,67,10,4.80,6.95,321.60,Disponible,2026-10-22
+INV-00361,La Libertad,GUA-0001,Arroz blanco,Abarrotes,Suli,Bolsa 1 kg,67,20,1.40,1.65,93.80,Disponible,2026-10-22
+INV-00362,La Libertad,GUA-0002,Frijol rojo,Abarrotes,Suli,Bolsa 900 g,132,20,1.50,2.20,198.00,Disponible,2026-10-22
+INV-00363,La Libertad,GUA-0003,Azúcar blanca,Abarrotes,La Cabaña,Bolsa 1 kg,146,20,0.72,1.10,105.12,Disponible,2026-10-22
+INV-00364,La Libertad,GUA-0004,Sal yodada,Abarrotes,Suli,Bolsa 454 g,141,20,0.33,0.45,46.53,Disponible,2026-10-22
+INV-00365,La Libertad,GUA-0005,Harina de maíz,Abarrotes,Maseca,Bolsa 1 kg,106,20,1.12,1.55,118.72,Disponible,2026-10-22
+INV-00366,La Libertad,GUA-0006,Pasta espagueti,Abarrotes,Ina,Paquete 200 g,47,20,0.47,0.65,22.09,Disponible,2026-10-22
+INV-00367,La Libertad,GUA-0007,Aceite vegetal,Abarrotes,Mazola,Botella 900 ml,105,20,1.90,2.75,199.50,Disponible,2026-10-22
+INV-00368,La Libertad,GUA-0008,Avena en hojuelas,Abarrotes,Quaker,Bolsa 400 g,147,20,1.43,2.10,210.21,Disponible,2026-10-22
+INV-00369,La Libertad,GUA-0009,Atún en agua,Abarrotes,Sardimar,Lata 140 g,123,20,1.31,1.60,161.13,Disponible,2026-10-22
+INV-00370,La Libertad,GUA-0010,Salsa de tomate,Abarrotes,Natura's,Doypack 200 g,161,20,0.50,0.75,80.50,Disponible,2026-10-22
+INV-00371,La Libertad,GUA-0011,Agua purificada,Bebidas,Cristal,Botella 1.5 L,0,20,0.58,0.70,0.00,Agotado,2026-10-22
+INV-00372,La Libertad,GUA-0012,Gaseosa cola,Bebidas,Coca-Cola,Botella 2 L,9,20,1.68,2.15,15.12,Stock bajo,2026-10-22
+INV-00373,La Libertad,GUA-0013,Gaseosa de limón,Bebidas,Sprite,Botella 1.5 L,124,20,1.09,1.65,135.16,Disponible,2026-10-22
+INV-00374,La Libertad,GUA-0014,Jugo de naranja,Bebidas,Del Valle,Caja 1 L,21,20,1.27,1.95,26.67,Disponible,2026-10-22
+INV-00375,La Libertad,GUA-0015,Néctar de durazno,Bebidas,Del Frutal,Lata 330 ml,159,20,0.40,0.60,63.60,Disponible,2026-10-22
+INV-00376,La Libertad,GUA-0016,Café molido,Bebidas,Musun,Bolsa 400 g,34,20,3.02,4.25,102.68,Disponible,2026-10-22
+INV-00377,La Libertad,GUA-0017,Café instantáneo,Bebidas,Nescafé,Frasco 100 g,12,20,3.24,4.50,38.88,Stock bajo,2026-10-22
+INV-00378,La Libertad,GUA-0018,Té de manzanilla,Bebidas,McCormick,Caja 20 sobres,148,20,1.74,2.15,257.52,Disponible,2026-10-22
+INV-00379,La Libertad,GUA-0019,Bebida deportiva,Bebidas,Gatorade,Botella 600 ml,34,20,1.09,1.30,37.06,Disponible,2026-10-22
+INV-00380,La Libertad,GUA-0020,Agua mineral,Bebidas,Salutaris,Botella 600 ml,161,20,0.59,0.90,94.99,Disponible,2026-10-22
+INV-00381,La Libertad,GUA-0021,Leche entera UHT,Lácteos y huevos,Salud,Caja 1 L,10,20,1.35,1.65,13.50,Stock bajo,2026-10-22
+INV-00382,La Libertad,GUA-0022,Leche descremada UHT,Lácteos y huevos,Dos Pinos,Caja 1 L,145,20,1.31,1.85,189.95,Disponible,2026-10-22
+INV-00383,La Libertad,GUA-0023,Yogur de fresa,Lácteos y huevos,Yes,Vaso 125 g,20,20,0.55,0.65,11.00,Stock bajo,2026-10-22
+INV-00384,La Libertad,GUA-0024,Yogur natural,Lácteos y huevos,Dos Pinos,Envase 1 L,61,20,3.08,3.75,187.88,Disponible,2026-10-22
+INV-00385,La Libertad,GUA-0025,Queso fresco,Lácteos y huevos,Petacones,Paquete 400 g,24,20,2.73,3.50,65.52,Disponible,2026-10-22
+INV-00386,La Libertad,GUA-0026,Queso mozzarella,Lácteos y huevos,Dos Pinos,Paquete 400 g,44,20,3.42,4.75,150.48,Disponible,2026-10-22
+INV-00387,La Libertad,GUA-0027,Crema láctea,Lácteos y huevos,Salud,Bolsa 400 ml,50,20,1.78,2.25,89.00,Disponible,2026-10-22
+INV-00388,La Libertad,GUA-0028,Mantequilla con sal,Lácteos y huevos,Dos Pinos,Barra 115 g,51,20,1.49,1.80,75.99,Disponible,2026-10-22
+INV-00389,La Libertad,GUA-0029,Huevos blancos,Lácteos y huevos,El Granjero,Cartón 30 unidades,30,10,3.83,5.25,114.90,Disponible,2026-10-22
+INV-00390,La Libertad,GUA-0030,Leche condensada,Lácteos y huevos,La Lechera,Lata 395 g,95,20,1.40,2.15,133.00,Disponible,2026-10-22
+INV-00391,La Libertad,GUA-0031,Manzana roja,Frutas y verduras,Gualmart Frescos,Bolsa 4 unidades,90,20,1.58,2.25,142.20,Disponible,2026-10-22
+INV-00392,La Libertad,GUA-0032,Banano,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,144,20,0.86,1.10,123.84,Disponible,2026-10-22
+INV-00393,La Libertad,GUA-0033,Naranja,Frutas y verduras,Gualmart Frescos,Malla 6 unidades,83,20,1.31,1.75,108.73,Disponible,2026-10-22
+INV-00394,La Libertad,GUA-0034,Limón,Frutas y verduras,Gualmart Frescos,Malla 12 unidades,58,20,1.10,1.50,63.80,Disponible,2026-10-22
+INV-00395,La Libertad,GUA-0035,Tomate de cocina,Frutas y verduras,Gualmart Frescos,Bandeja 500 g,174,20,0.66,0.95,114.84,Disponible,2026-10-22
+INV-00396,La Libertad,GUA-0036,Cebolla blanca,Frutas y verduras,Gualmart Frescos,Malla 1 kg,55,20,1.03,1.45,56.65,Disponible,2026-10-22
+INV-00397,La Libertad,GUA-0037,Papa blanca,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,91,20,1.20,1.60,109.20,Disponible,2026-10-22
+INV-00398,La Libertad,GUA-0038,Zanahoria,Frutas y verduras,Gualmart Frescos,Bolsa 500 g,127,20,0.51,0.75,64.77,Disponible,2026-10-22
+INV-00399,La Libertad,GUA-0039,Lechuga romana,Frutas y verduras,Gualmart Frescos,Unidad empacada,150,20,0.57,0.85,85.50,Disponible,2026-10-22
+INV-00400,La Libertad,GUA-0040,Pepino,Frutas y verduras,Gualmart Frescos,Paquete 3 unidades,21,20,0.77,1.00,16.17,Disponible,2026-10-22
+INV-00401,La Libertad,GUA-0041,Pechuga de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,49,10,3.57,5.25,174.93,Disponible,2026-10-22
+INV-00402,La Libertad,GUA-0042,Muslos de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,169,20,2.96,3.90,500.24,Disponible,2026-10-22
+INV-00403,La Libertad,GUA-0043,Carne molida de res,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,146,20,3.23,4.25,471.58,Disponible,2026-10-22
+INV-00404,La Libertad,GUA-0044,Lomo de cerdo,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,135,20,3.15,3.75,425.25,Disponible,2026-10-22
+INV-00405,La Libertad,GUA-0045,Filete de tilapia,Carnes y congelados,Gualmart Frescos,Bolsa 500 g,109,20,3.58,4.90,390.22,Disponible,2026-10-22
+INV-00406,La Libertad,GUA-0046,Camarón congelado,Carnes y congelados,Gualmart Frescos,Bolsa 400 g,80,10,4.29,6.50,343.20,Disponible,2026-10-22
+INV-00407,La Libertad,GUA-0047,Nuggets de pollo,Carnes y congelados,Toledo,Bolsa 400 g,103,20,3.12,3.95,321.36,Disponible,2026-10-22
+INV-00408,La Libertad,GUA-0048,Papas congeladas,Carnes y congelados,McCain,Bolsa 750 g,82,20,2.87,3.50,235.34,Disponible,2026-10-22
+INV-00409,La Libertad,GUA-0049,Vegetales mixtos congelados,Carnes y congelados,Great Value,Bolsa 500 g,80,20,1.53,2.25,122.40,Disponible,2026-10-22
+INV-00410,La Libertad,GUA-0050,Helado de vainilla,Carnes y congelados,Sarita,Envase 1 L,126,20,3.27,4.25,412.02,Disponible,2026-10-22
+INV-00411,La Libertad,GUA-0051,Pan de caja blanco,Panadería y snacks,Bimbo,Bolsa 560 g,0,20,1.41,2.10,0.00,Agotado,2026-10-22
+INV-00412,La Libertad,GUA-0052,Pan integral,Panadería y snacks,Bimbo,Bolsa 560 g,118,20,2.26,2.75,266.68,Disponible,2026-10-22
+INV-00413,La Libertad,GUA-0053,Tortillas de harina,Panadería y snacks,Tía Rosa,Paquete 10 unidades,190,20,1.22,1.65,231.80,Disponible,2026-10-22
+INV-00414,La Libertad,GUA-0054,Galletas de chocolate,Panadería y snacks,Oreo,Paquete 144 g,187,20,1.02,1.20,190.74,Disponible,2026-10-22
+INV-00415,La Libertad,GUA-0055,Galletas saladas,Panadería y snacks,Pozuelo,Paquete 240 g,147,20,1.22,1.45,179.34,Disponible,2026-10-22
+INV-00416,La Libertad,GUA-0056,Papas fritas,Panadería y snacks,Lay's,Bolsa 150 g,53,20,1.41,1.85,74.73,Disponible,2026-10-22
+INV-00417,La Libertad,GUA-0057,Nachos de queso,Panadería y snacks,Doritos,Bolsa 150 g,172,20,1.54,1.85,264.88,Disponible,2026-10-22
+INV-00418,La Libertad,GUA-0058,Cereal de maíz,Panadería y snacks,Kellogg's,Caja 300 g,46,20,2.59,3.65,119.14,Disponible,2026-10-22
+INV-00419,La Libertad,GUA-0059,Chocolate con leche,Panadería y snacks,Hershey's,Barra 43 g,133,20,0.74,1.10,98.42,Disponible,2026-10-22
+INV-00420,La Libertad,GUA-0060,Maní salado,Panadería y snacks,Diana,Bolsa 150 g,15,20,0.83,1.25,12.45,Stock bajo,2026-10-22
+INV-00421,La Libertad,GUA-0061,Detergente en polvo,Limpieza,Rinso,Bolsa 1 kg,0,20,1.98,2.75,0.00,Agotado,2026-10-22
+INV-00422,La Libertad,GUA-0062,Detergente líquido,Limpieza,Ariel,Botella 1 L,5,20,3.15,4.25,15.75,Stock bajo,2026-10-22
+INV-00423,La Libertad,GUA-0063,Suavizante de ropa,Limpieza,Downy,Botella 800 ml,9,20,1.98,2.95,17.82,Stock bajo,2026-10-22
+INV-00424,La Libertad,GUA-0064,Cloro,Limpieza,Magia Blanca,Botella 1 L,122,20,0.79,1.10,96.38,Disponible,2026-10-22
+INV-00425,La Libertad,GUA-0065,Desinfectante de pisos,Limpieza,Fabuloso,Botella 1 L,105,20,1.33,1.95,139.65,Disponible,2026-10-22
+INV-00426,La Libertad,GUA-0066,Lavaplatos líquido,Limpieza,Axion,Botella 750 ml,157,20,1.66,2.15,260.62,Disponible,2026-10-22
+INV-00427,La Libertad,GUA-0067,Esponjas para platos,Limpieza,Scotch-Brite,Paquete 3 unidades,102,20,1.28,1.75,130.56,Disponible,2026-10-22
+INV-00428,La Libertad,GUA-0068,Bolsas para basura,Limpieza,Great Value,Paquete 20 unidades,145,20,1.94,2.45,281.30,Disponible,2026-10-22
+INV-00429,La Libertad,GUA-0069,Limpiavidrios,Limpieza,Windex,Atomizador 650 ml,30,20,2.76,3.25,82.80,Disponible,2026-10-22
+INV-00430,La Libertad,GUA-0070,Escoba multiusos,Limpieza,Suli,Unidad,81,20,2.66,3.50,215.46,Disponible,2026-10-22
+INV-00431,La Libertad,GUA-0071,Champú hidratante,Cuidado personal,Pantene,Botella 400 ml,94,20,3.47,4.95,326.18,Disponible,2026-10-22
+INV-00432,La Libertad,GUA-0072,Acondicionador,Cuidado personal,Sedal,Botella 340 ml,44,20,2.85,3.75,125.40,Disponible,2026-10-22
+INV-00433,La Libertad,GUA-0073,Jabón de tocador,Cuidado personal,Dove,Paquete 3 barras,46,20,2.47,3.25,113.62,Disponible,2026-10-22
+INV-00434,La Libertad,GUA-0074,Pasta dental,Cuidado personal,Colgate,Tubo 150 ml,46,20,1.88,2.65,86.48,Disponible,2026-10-22
+INV-00435,La Libertad,GUA-0075,Cepillo dental,Cuidado personal,Oral-B,Unidad,97,20,1.35,1.85,130.95,Disponible,2026-10-22
+INV-00436,La Libertad,GUA-0076,Desodorante en barra,Cuidado personal,Rexona,Barra 50 g,32,20,2.76,3.25,88.32,Disponible,2026-10-22
+INV-00437,La Libertad,GUA-0077,Papel higiénico,Cuidado personal,Scott,Paquete 12 rollos,18,10,3.85,5.75,69.30,Disponible,2026-10-22
+INV-00438,La Libertad,GUA-0078,Toallas sanitarias,Cuidado personal,Saba,Paquete 10 unidades,116,20,1.47,1.75,170.52,Disponible,2026-10-22
+INV-00439,La Libertad,GUA-0079,Pañales talla M,Cuidado personal,Huggies,Paquete 40 unidades,42,10,9.31,10.95,391.02,Disponible,2026-10-22
+INV-00440,La Libertad,GUA-0080,Protector solar FPS 50,Cuidado personal,Nivea,Tubo 200 ml,83,10,8.75,12.50,726.25,Disponible,2026-10-22
+INV-00441,La Libertad,GUA-0081,Sartén antiadherente,Hogar y cocina,Mainstays,Unidad 24 cm,34,10,10.62,12.95,361.08,Disponible,2026-10-22
+INV-00442,La Libertad,GUA-0082,Olla con tapa,Hogar y cocina,Mainstays,Unidad 3 L,2,10,12.60,17.50,25.20,Stock bajo,2026-10-22
+INV-00443,La Libertad,GUA-0083,Vasos de vidrio,Hogar y cocina,Crisa,Juego 6 unidades,59,10,4.87,6.95,287.33,Disponible,2026-10-22
+INV-00444,La Libertad,GUA-0084,Platos de cerámica,Hogar y cocina,Mainstays,Juego 4 unidades,41,10,7.86,9.95,322.26,Disponible,2026-10-22
+INV-00445,La Libertad,GUA-0085,Cubiertos de acero,Hogar y cocina,Mainstays,Juego 16 piezas,85,10,6.55,8.50,556.75,Disponible,2026-10-22
+INV-00446,La Libertad,GUA-0086,Recipientes herméticos,Hogar y cocina,Great Value,Juego 3 unidades,15,20,3.47,4.75,52.05,Stock bajo,2026-10-22
+INV-00447,La Libertad,GUA-0087,Toalla de baño,Hogar y cocina,Mainstays,Unidad 70 x 140 cm,69,10,5.53,6.50,381.57,Disponible,2026-10-22
+INV-00448,La Libertad,GUA-0088,Almohada estándar,Hogar y cocina,Mainstays,Unidad,12,10,6.52,7.95,78.24,Disponible,2026-10-22
+INV-00449,La Libertad,GUA-0089,Sábanas matrimoniales,Hogar y cocina,Mainstays,Juego 3 piezas,70,10,14.36,19.95,1005.20,Disponible,2026-10-22
+INV-00450,La Libertad,GUA-0090,Bombilla LED,Hogar y cocina,Philips,Unidad 9 W,160,20,1.88,2.50,300.80,Disponible,2026-10-22
+INV-00451,La Libertad,GUA-0091,Audífonos alámbricos,Electrónica y electrodomésticos,Sony,Unidad,8,10,8.55,12.95,68.40,Stock bajo,2026-10-22
+INV-00452,La Libertad,GUA-0092,Audífonos Bluetooth,Electrónica y electrodomésticos,JBL,Unidad,43,5,28.76,39.95,1236.68,Disponible,2026-10-22
+INV-00453,La Libertad,GUA-0093,Cable USB-C,Electrónica y electrodomésticos,Onn,Unidad 1 m,129,20,3.27,4.95,421.83,Disponible,2026-10-22
+INV-00454,La Libertad,GUA-0094,Cargador USB,Electrónica y electrodomésticos,Onn,Unidad 20 W,69,10,7.46,9.95,514.74,Disponible,2026-10-22
+INV-00455,La Libertad,GUA-0095,Memoria USB,Electrónica y electrodomésticos,Kingston,Unidad 64 GB,36,10,6.12,7.95,220.32,Disponible,2026-10-22
+INV-00456,La Libertad,GUA-0096,Mouse inalámbrico,Electrónica y electrodomésticos,Logitech,Unidad,72,10,10.91,14.95,785.52,Disponible,2026-10-22
+INV-00457,La Libertad,GUA-0097,Licuadora,Electrónica y electrodomésticos,Oster,Unidad 1.5 L,4,5,33.47,49.95,133.88,Stock bajo,2026-10-22
+INV-00458,La Libertad,GUA-0098,Cafetera de goteo,Electrónica y electrodomésticos,Black+Decker,Unidad 12 tazas,42,5,21.26,29.95,892.92,Disponible,2026-10-22
+INV-00459,La Libertad,GUA-0099,Plancha de vapor,Electrónica y electrodomésticos,Oster,Unidad,24,5,20.71,24.95,497.04,Disponible,2026-10-22
+INV-00460,La Libertad,GUA-0100,Ventilador de pedestal,Electrónica y electrodomésticos,Durabrand,Unidad 16 pulgadas,0,5,26.21,34.95,0.00,Agotado,2026-10-22
+INV-00461,La Libertad,GUA-0101,Camiseta blanca talla M,Ropa y accesorios,George,Unidad,61,10,4.22,5.95,257.42,Disponible,2026-10-22
+INV-00462,La Libertad,GUA-0102,Camiseta negra talla L,Ropa y accesorios,George,Unidad,83,10,5.06,5.95,419.98,Disponible,2026-10-22
+INV-00463,La Libertad,GUA-0103,Blusa beige talla M,Ropa y accesorios,George,Unidad,17,10,7.96,9.95,135.32,Disponible,2026-10-22
+INV-00464,La Libertad,GUA-0104,Pantalón de mezclilla talla 30,Ropa y accesorios,George,Unidad,74,10,14.59,18.95,1079.66,Disponible,2026-10-22
+INV-00465,La Libertad,GUA-0105,Pantalón deportivo talla L,Ropa y accesorios,Athletic Works,Unidad,47,10,11.01,12.95,517.47,Disponible,2026-10-22
+INV-00466,La Libertad,GUA-0106,Calcetines talla 35-39,Ropa y accesorios,George,Paquete 3 pares,79,20,3.56,4.50,281.24,Disponible,2026-10-22
+INV-00467,La Libertad,GUA-0107,Pijama talla M,Ropa y accesorios,George,Juego 2 piezas,56,10,10.32,14.95,577.92,Disponible,2026-10-22
+INV-00468,La Libertad,GUA-0108,Sandalias talla 38,Ropa y accesorios,George,Par,35,10,5.80,7.95,203.00,Disponible,2026-10-22
+INV-00469,La Libertad,GUA-0109,Gorra ajustable,Ropa y accesorios,Athletic Works,Unidad,95,10,3.80,5.50,361.00,Disponible,2026-10-22
+INV-00470,La Libertad,GUA-0110,Mochila escolar,Ropa y accesorios,Onn,Unidad,28,10,12.20,16.95,341.60,Disponible,2026-10-22
+INV-00471,La Libertad,GUA-0111,Alimento para perro adulto,Mascotas y jardín,Dog Chow,Bolsa 2 kg,91,10,6.52,7.95,593.32,Disponible,2026-10-22
+INV-00472,La Libertad,GUA-0112,Alimento para gato adulto,Mascotas y jardín,Cat Chow,Bolsa 1.5 kg,50,10,6.97,8.50,348.50,Disponible,2026-10-22
+INV-00473,La Libertad,GUA-0113,Alimento húmedo para gato,Mascotas y jardín,Whiskas,Sobre 85 g,29,20,0.55,0.75,15.95,Disponible,2026-10-22
+INV-00474,La Libertad,GUA-0114,Arena para gato,Mascotas y jardín,Great Value,Bolsa 4 kg,27,10,4.94,5.95,133.38,Disponible,2026-10-22
+INV-00475,La Libertad,GUA-0115,Champú para perro,Mascotas y jardín,Hartz,Botella 532 ml,5,10,4.10,5.25,20.50,Stock bajo,2026-10-22
+INV-00476,La Libertad,GUA-0116,Plato para mascota,Mascotas y jardín,Mainstays,Unidad 500 ml,127,20,2.08,2.50,264.16,Disponible,2026-10-22
+INV-00477,La Libertad,GUA-0117,Maceta plástica,Mascotas y jardín,Mainstays,Unidad 20 cm,5,20,2.27,2.95,11.35,Stock bajo,2026-10-22
+INV-00478,La Libertad,GUA-0118,Tierra abonada,Mascotas y jardín,Gualmart Jardín,Bolsa 5 kg,114,20,2.66,3.50,303.24,Disponible,2026-10-22
+INV-00479,La Libertad,GUA-0119,Manguera de jardín,Mascotas y jardín,Mainstays,Unidad 15 m,45,10,10.76,14.95,484.20,Disponible,2026-10-22
+INV-00480,La Libertad,GUA-0120,Regadera de jardín,Mascotas y jardín,Mainstays,Unidad 5 L,43,10,4.80,6.95,206.40,Disponible,2026-10-22
+INV-00481,Sonsonate,GUA-0001,Arroz blanco,Abarrotes,Suli,Bolsa 1 kg,141,20,1.40,1.65,197.40,Disponible,2026-10-22
+INV-00482,Sonsonate,GUA-0002,Frijol rojo,Abarrotes,Suli,Bolsa 900 g,124,20,1.50,2.20,186.00,Disponible,2026-10-22
+INV-00483,Sonsonate,GUA-0003,Azúcar blanca,Abarrotes,La Cabaña,Bolsa 1 kg,132,20,0.72,1.10,95.04,Disponible,2026-10-22
+INV-00484,Sonsonate,GUA-0004,Sal yodada,Abarrotes,Suli,Bolsa 454 g,35,20,0.33,0.45,11.55,Disponible,2026-10-22
+INV-00485,Sonsonate,GUA-0005,Harina de maíz,Abarrotes,Maseca,Bolsa 1 kg,30,20,1.12,1.55,33.60,Disponible,2026-10-22
+INV-00486,Sonsonate,GUA-0006,Pasta espagueti,Abarrotes,Ina,Paquete 200 g,8,20,0.47,0.65,3.76,Stock bajo,2026-10-22
+INV-00487,Sonsonate,GUA-0007,Aceite vegetal,Abarrotes,Mazola,Botella 900 ml,113,20,1.90,2.75,214.70,Disponible,2026-10-22
+INV-00488,Sonsonate,GUA-0008,Avena en hojuelas,Abarrotes,Quaker,Bolsa 400 g,71,20,1.43,2.10,101.53,Disponible,2026-10-22
+INV-00489,Sonsonate,GUA-0009,Atún en agua,Abarrotes,Sardimar,Lata 140 g,123,20,1.31,1.60,161.13,Disponible,2026-10-22
+INV-00490,Sonsonate,GUA-0010,Salsa de tomate,Abarrotes,Natura's,Doypack 200 g,32,20,0.50,0.75,16.00,Disponible,2026-10-22
+INV-00491,Sonsonate,GUA-0011,Agua purificada,Bebidas,Cristal,Botella 1.5 L,22,20,0.58,0.70,12.76,Disponible,2026-10-22
+INV-00492,Sonsonate,GUA-0012,Gaseosa cola,Bebidas,Coca-Cola,Botella 2 L,36,20,1.68,2.15,60.48,Disponible,2026-10-22
+INV-00493,Sonsonate,GUA-0013,Gaseosa de limón,Bebidas,Sprite,Botella 1.5 L,107,20,1.09,1.65,116.63,Disponible,2026-10-22
+INV-00494,Sonsonate,GUA-0014,Jugo de naranja,Bebidas,Del Valle,Caja 1 L,54,20,1.27,1.95,68.58,Disponible,2026-10-22
+INV-00495,Sonsonate,GUA-0015,Néctar de durazno,Bebidas,Del Frutal,Lata 330 ml,126,20,0.40,0.60,50.40,Disponible,2026-10-22
+INV-00496,Sonsonate,GUA-0016,Café molido,Bebidas,Musun,Bolsa 400 g,68,20,3.02,4.25,205.36,Disponible,2026-10-22
+INV-00497,Sonsonate,GUA-0017,Café instantáneo,Bebidas,Nescafé,Frasco 100 g,8,20,3.24,4.50,25.92,Stock bajo,2026-10-22
+INV-00498,Sonsonate,GUA-0018,Té de manzanilla,Bebidas,McCormick,Caja 20 sobres,100,20,1.74,2.15,174.00,Disponible,2026-10-22
+INV-00499,Sonsonate,GUA-0019,Bebida deportiva,Bebidas,Gatorade,Botella 600 ml,92,20,1.09,1.30,100.28,Disponible,2026-10-22
+INV-00500,Sonsonate,GUA-0020,Agua mineral,Bebidas,Salutaris,Botella 600 ml,99,20,0.59,0.90,58.41,Disponible,2026-10-22
+INV-00501,Sonsonate,GUA-0021,Leche entera UHT,Lácteos y huevos,Salud,Caja 1 L,29,20,1.35,1.65,39.15,Disponible,2026-10-22
+INV-00502,Sonsonate,GUA-0022,Leche descremada UHT,Lácteos y huevos,Dos Pinos,Caja 1 L,80,20,1.31,1.85,104.80,Disponible,2026-10-22
+INV-00503,Sonsonate,GUA-0023,Yogur de fresa,Lácteos y huevos,Yes,Vaso 125 g,59,20,0.55,0.65,32.45,Disponible,2026-10-22
+INV-00504,Sonsonate,GUA-0024,Yogur natural,Lácteos y huevos,Dos Pinos,Envase 1 L,35,20,3.08,3.75,107.80,Disponible,2026-10-22
+INV-00505,Sonsonate,GUA-0025,Queso fresco,Lácteos y huevos,Petacones,Paquete 400 g,2,20,2.73,3.50,5.46,Stock bajo,2026-10-22
+INV-00506,Sonsonate,GUA-0026,Queso mozzarella,Lácteos y huevos,Dos Pinos,Paquete 400 g,84,20,3.42,4.75,287.28,Disponible,2026-10-22
+INV-00507,Sonsonate,GUA-0027,Crema láctea,Lácteos y huevos,Salud,Bolsa 400 ml,8,20,1.78,2.25,14.24,Stock bajo,2026-10-22
+INV-00508,Sonsonate,GUA-0028,Mantequilla con sal,Lácteos y huevos,Dos Pinos,Barra 115 g,38,20,1.49,1.80,56.62,Disponible,2026-10-22
+INV-00509,Sonsonate,GUA-0029,Huevos blancos,Lácteos y huevos,El Granjero,Cartón 30 unidades,34,10,3.83,5.25,130.22,Disponible,2026-10-22
+INV-00510,Sonsonate,GUA-0030,Leche condensada,Lácteos y huevos,La Lechera,Lata 395 g,116,20,1.40,2.15,162.40,Disponible,2026-10-22
+INV-00511,Sonsonate,GUA-0031,Manzana roja,Frutas y verduras,Gualmart Frescos,Bolsa 4 unidades,90,20,1.58,2.25,142.20,Disponible,2026-10-22
+INV-00512,Sonsonate,GUA-0032,Banano,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,116,20,0.86,1.10,99.76,Disponible,2026-10-22
+INV-00513,Sonsonate,GUA-0033,Naranja,Frutas y verduras,Gualmart Frescos,Malla 6 unidades,134,20,1.31,1.75,175.54,Disponible,2026-10-22
+INV-00514,Sonsonate,GUA-0034,Limón,Frutas y verduras,Gualmart Frescos,Malla 12 unidades,33,20,1.10,1.50,36.30,Disponible,2026-10-22
+INV-00515,Sonsonate,GUA-0035,Tomate de cocina,Frutas y verduras,Gualmart Frescos,Bandeja 500 g,99,20,0.66,0.95,65.34,Disponible,2026-10-22
+INV-00516,Sonsonate,GUA-0036,Cebolla blanca,Frutas y verduras,Gualmart Frescos,Malla 1 kg,142,20,1.03,1.45,146.26,Disponible,2026-10-22
+INV-00517,Sonsonate,GUA-0037,Papa blanca,Frutas y verduras,Gualmart Frescos,Bolsa 1 kg,109,20,1.20,1.60,130.80,Disponible,2026-10-22
+INV-00518,Sonsonate,GUA-0038,Zanahoria,Frutas y verduras,Gualmart Frescos,Bolsa 500 g,77,20,0.51,0.75,39.27,Disponible,2026-10-22
+INV-00519,Sonsonate,GUA-0039,Lechuga romana,Frutas y verduras,Gualmart Frescos,Unidad empacada,51,20,0.57,0.85,29.07,Disponible,2026-10-22
+INV-00520,Sonsonate,GUA-0040,Pepino,Frutas y verduras,Gualmart Frescos,Paquete 3 unidades,33,20,0.77,1.00,25.41,Disponible,2026-10-22
+INV-00521,Sonsonate,GUA-0041,Pechuga de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,34,10,3.57,5.25,121.38,Disponible,2026-10-22
+INV-00522,Sonsonate,GUA-0042,Muslos de pollo,Carnes y congelados,Pollo Indio,Bandeja 1 kg,103,20,2.96,3.90,304.88,Disponible,2026-10-22
+INV-00523,Sonsonate,GUA-0043,Carne molida de res,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,71,20,3.23,4.25,229.33,Disponible,2026-10-22
+INV-00524,Sonsonate,GUA-0044,Lomo de cerdo,Carnes y congelados,Gualmart Frescos,Bandeja 500 g,144,20,3.15,3.75,453.60,Disponible,2026-10-22
+INV-00525,Sonsonate,GUA-0045,Filete de tilapia,Carnes y congelados,Gualmart Frescos,Bolsa 500 g,15,20,3.58,4.90,53.70,Stock bajo,2026-10-22
+INV-00526,Sonsonate,GUA-0046,Camarón congelado,Carnes y congelados,Gualmart Frescos,Bolsa 400 g,4,10,4.29,6.50,17.16,Stock bajo,2026-10-22
+INV-00527,Sonsonate,GUA-0047,Nuggets de pollo,Carnes y congelados,Toledo,Bolsa 400 g,97,20,3.12,3.95,302.64,Disponible,2026-10-22
+INV-00528,Sonsonate,GUA-0048,Papas congeladas,Carnes y congelados,McCain,Bolsa 750 g,27,20,2.87,3.50,77.49,Disponible,2026-10-22
+INV-00529,Sonsonate,GUA-0049,Vegetales mixtos congelados,Carnes y congelados,Great Value,Bolsa 500 g,52,20,1.53,2.25,79.56,Disponible,2026-10-22
+INV-00530,Sonsonate,GUA-0050,Helado de vainilla,Carnes y congelados,Sarita,Envase 1 L,121,20,3.27,4.25,395.67,Disponible,2026-10-22
+INV-00531,Sonsonate,GUA-0051,Pan de caja blanco,Panadería y snacks,Bimbo,Bolsa 560 g,29,20,1.41,2.10,40.89,Disponible,2026-10-22
+INV-00532,Sonsonate,GUA-0052,Pan integral,Panadería y snacks,Bimbo,Bolsa 560 g,91,20,2.26,2.75,205.66,Disponible,2026-10-22
+INV-00533,Sonsonate,GUA-0053,Tortillas de harina,Panadería y snacks,Tía Rosa,Paquete 10 unidades,48,20,1.22,1.65,58.56,Disponible,2026-10-22
+INV-00534,Sonsonate,GUA-0054,Galletas de chocolate,Panadería y snacks,Oreo,Paquete 144 g,50,20,1.02,1.20,51.00,Disponible,2026-10-22
+INV-00535,Sonsonate,GUA-0055,Galletas saladas,Panadería y snacks,Pozuelo,Paquete 240 g,39,20,1.22,1.45,47.58,Disponible,2026-10-22
+INV-00536,Sonsonate,GUA-0056,Papas fritas,Panadería y snacks,Lay's,Bolsa 150 g,97,20,1.41,1.85,136.77,Disponible,2026-10-22
+INV-00537,Sonsonate,GUA-0057,Nachos de queso,Panadería y snacks,Doritos,Bolsa 150 g,0,20,1.54,1.85,0.00,Agotado,2026-10-22
+INV-00538,Sonsonate,GUA-0058,Cereal de maíz,Panadería y snacks,Kellogg's,Caja 300 g,39,20,2.59,3.65,101.01,Disponible,2026-10-22
+INV-00539,Sonsonate,GUA-0059,Chocolate con leche,Panadería y snacks,Hershey's,Barra 43 g,90,20,0.74,1.10,66.60,Disponible,2026-10-22
+INV-00540,Sonsonate,GUA-0060,Maní salado,Panadería y snacks,Diana,Bolsa 150 g,43,20,0.83,1.25,35.69,Disponible,2026-10-22
+INV-00541,Sonsonate,GUA-0061,Detergente en polvo,Limpieza,Rinso,Bolsa 1 kg,1,20,1.98,2.75,1.98,Stock bajo,2026-10-22
+INV-00542,Sonsonate,GUA-0062,Detergente líquido,Limpieza,Ariel,Botella 1 L,12,20,3.15,4.25,37.80,Stock bajo,2026-10-22
+INV-00543,Sonsonate,GUA-0063,Suavizante de ropa,Limpieza,Downy,Botella 800 ml,51,20,1.98,2.95,100.98,Disponible,2026-10-22
+INV-00544,Sonsonate,GUA-0064,Cloro,Limpieza,Magia Blanca,Botella 1 L,23,20,0.79,1.10,18.17,Disponible,2026-10-22
+INV-00545,Sonsonate,GUA-0065,Desinfectante de pisos,Limpieza,Fabuloso,Botella 1 L,2,20,1.33,1.95,2.66,Stock bajo,2026-10-22
+INV-00546,Sonsonate,GUA-0066,Lavaplatos líquido,Limpieza,Axion,Botella 750 ml,14,20,1.66,2.15,23.24,Stock bajo,2026-10-22
+INV-00547,Sonsonate,GUA-0067,Esponjas para platos,Limpieza,Scotch-Brite,Paquete 3 unidades,116,20,1.28,1.75,148.48,Disponible,2026-10-22
+INV-00548,Sonsonate,GUA-0068,Bolsas para basura,Limpieza,Great Value,Paquete 20 unidades,15,20,1.94,2.45,29.10,Stock bajo,2026-10-22
+INV-00549,Sonsonate,GUA-0069,Limpiavidrios,Limpieza,Windex,Atomizador 650 ml,86,20,2.76,3.25,237.36,Disponible,2026-10-22
+INV-00550,Sonsonate,GUA-0070,Escoba multiusos,Limpieza,Suli,Unidad,78,20,2.66,3.50,207.48,Disponible,2026-10-22
+INV-00551,Sonsonate,GUA-0071,Champú hidratante,Cuidado personal,Pantene,Botella 400 ml,142,20,3.47,4.95,492.74,Disponible,2026-10-22
+INV-00552,Sonsonate,GUA-0072,Acondicionador,Cuidado personal,Sedal,Botella 340 ml,114,20,2.85,3.75,324.90,Disponible,2026-10-22
+INV-00553,Sonsonate,GUA-0073,Jabón de tocador,Cuidado personal,Dove,Paquete 3 barras,131,20,2.47,3.25,323.57,Disponible,2026-10-22
+INV-00554,Sonsonate,GUA-0074,Pasta dental,Cuidado personal,Colgate,Tubo 150 ml,59,20,1.88,2.65,110.92,Disponible,2026-10-22
+INV-00555,Sonsonate,GUA-0075,Cepillo dental,Cuidado personal,Oral-B,Unidad,144,20,1.35,1.85,194.40,Disponible,2026-10-22
+INV-00556,Sonsonate,GUA-0076,Desodorante en barra,Cuidado personal,Rexona,Barra 50 g,0,20,2.76,3.25,0.00,Agotado,2026-10-22
+INV-00557,Sonsonate,GUA-0077,Papel higiénico,Cuidado personal,Scott,Paquete 12 rollos,65,10,3.85,5.75,250.25,Disponible,2026-10-22
+INV-00558,Sonsonate,GUA-0078,Toallas sanitarias,Cuidado personal,Saba,Paquete 10 unidades,108,20,1.47,1.75,158.76,Disponible,2026-10-22
+INV-00559,Sonsonate,GUA-0079,Pañales talla M,Cuidado personal,Huggies,Paquete 40 unidades,8,10,9.31,10.95,74.48,Stock bajo,2026-10-22
+INV-00560,Sonsonate,GUA-0080,Protector solar FPS 50,Cuidado personal,Nivea,Tubo 200 ml,2,10,8.75,12.50,17.50,Stock bajo,2026-10-22
+INV-00561,Sonsonate,GUA-0081,Sartén antiadherente,Hogar y cocina,Mainstays,Unidad 24 cm,20,10,10.62,12.95,212.40,Disponible,2026-10-22
+INV-00562,Sonsonate,GUA-0082,Olla con tapa,Hogar y cocina,Mainstays,Unidad 3 L,5,10,12.60,17.50,63.00,Stock bajo,2026-10-22
+INV-00563,Sonsonate,GUA-0083,Vasos de vidrio,Hogar y cocina,Crisa,Juego 6 unidades,48,10,4.87,6.95,233.76,Disponible,2026-10-22
+INV-00564,Sonsonate,GUA-0084,Platos de cerámica,Hogar y cocina,Mainstays,Juego 4 unidades,31,10,7.86,9.95,243.66,Disponible,2026-10-22
+INV-00565,Sonsonate,GUA-0085,Cubiertos de acero,Hogar y cocina,Mainstays,Juego 16 piezas,49,10,6.55,8.50,320.95,Disponible,2026-10-22
+INV-00566,Sonsonate,GUA-0086,Recipientes herméticos,Hogar y cocina,Great Value,Juego 3 unidades,79,20,3.47,4.75,274.13,Disponible,2026-10-22
+INV-00567,Sonsonate,GUA-0087,Toalla de baño,Hogar y cocina,Mainstays,Unidad 70 x 140 cm,38,10,5.53,6.50,210.14,Disponible,2026-10-22
+INV-00568,Sonsonate,GUA-0088,Almohada estándar,Hogar y cocina,Mainstays,Unidad,2,10,6.52,7.95,13.04,Stock bajo,2026-10-22
+INV-00569,Sonsonate,GUA-0089,Sábanas matrimoniales,Hogar y cocina,Mainstays,Juego 3 piezas,52,10,14.36,19.95,746.72,Disponible,2026-10-22
+INV-00570,Sonsonate,GUA-0090,Bombilla LED,Hogar y cocina,Philips,Unidad 9 W,91,20,1.88,2.50,171.08,Disponible,2026-10-22
+INV-00571,Sonsonate,GUA-0091,Audífonos alámbricos,Electrónica y electrodomésticos,Sony,Unidad,24,10,8.55,12.95,205.20,Disponible,2026-10-22
+INV-00572,Sonsonate,GUA-0092,Audífonos Bluetooth,Electrónica y electrodomésticos,JBL,Unidad,34,5,28.76,39.95,977.84,Disponible,2026-10-22
+INV-00573,Sonsonate,GUA-0093,Cable USB-C,Electrónica y electrodomésticos,Onn,Unidad 1 m,64,20,3.27,4.95,209.28,Disponible,2026-10-22
+INV-00574,Sonsonate,GUA-0094,Cargador USB,Electrónica y electrodomésticos,Onn,Unidad 20 W,36,10,7.46,9.95,268.56,Disponible,2026-10-22
+INV-00575,Sonsonate,GUA-0095,Memoria USB,Electrónica y electrodomésticos,Kingston,Unidad 64 GB,17,10,6.12,7.95,104.04,Disponible,2026-10-22
+INV-00576,Sonsonate,GUA-0096,Mouse inalámbrico,Electrónica y electrodomésticos,Logitech,Unidad,31,10,10.91,14.95,338.21,Disponible,2026-10-22
+INV-00577,Sonsonate,GUA-0097,Licuadora,Electrónica y electrodomésticos,Oster,Unidad 1.5 L,17,5,33.47,49.95,568.99,Disponible,2026-10-22
+INV-00578,Sonsonate,GUA-0098,Cafetera de goteo,Electrónica y electrodomésticos,Black+Decker,Unidad 12 tazas,27,5,21.26,29.95,574.02,Disponible,2026-10-22
+INV-00579,Sonsonate,GUA-0099,Plancha de vapor,Electrónica y electrodomésticos,Oster,Unidad,8,5,20.71,24.95,165.68,Disponible,2026-10-22
+INV-00580,Sonsonate,GUA-0100,Ventilador de pedestal,Electrónica y electrodomésticos,Durabrand,Unidad 16 pulgadas,1,5,26.21,34.95,26.21,Stock bajo,2026-10-22
+INV-00581,Sonsonate,GUA-0101,Camiseta blanca talla M,Ropa y accesorios,George,Unidad,2,10,4.22,5.95,8.44,Stock bajo,2026-10-22
+INV-00582,Sonsonate,GUA-0102,Camiseta negra talla L,Ropa y accesorios,George,Unidad,34,10,5.06,5.95,172.04,Disponible,2026-10-22
+INV-00583,Sonsonate,GUA-0103,Blusa beige talla M,Ropa y accesorios,George,Unidad,46,10,7.96,9.95,366.16,Disponible,2026-10-22
+INV-00584,Sonsonate,GUA-0104,Pantalón de mezclilla talla 30,Ropa y accesorios,George,Unidad,9,10,14.59,18.95,131.31,Stock bajo,2026-10-22
+INV-00585,Sonsonate,GUA-0105,Pantalón deportivo talla L,Ropa y accesorios,Athletic Works,Unidad,53,10,11.01,12.95,583.53,Disponible,2026-10-22
+INV-00586,Sonsonate,GUA-0106,Calcetines talla 35-39,Ropa y accesorios,George,Paquete 3 pares,12,20,3.56,4.50,42.72,Stock bajo,2026-10-22
+INV-00587,Sonsonate,GUA-0107,Pijama talla M,Ropa y accesorios,George,Juego 2 piezas,71,10,10.32,14.95,732.72,Disponible,2026-10-22
+INV-00588,Sonsonate,GUA-0108,Sandalias talla 38,Ropa y accesorios,George,Par,66,10,5.80,7.95,382.80,Disponible,2026-10-22
+INV-00589,Sonsonate,GUA-0109,Gorra ajustable,Ropa y accesorios,Athletic Works,Unidad,14,10,3.80,5.50,53.20,Disponible,2026-10-22
+INV-00590,Sonsonate,GUA-0110,Mochila escolar,Ropa y accesorios,Onn,Unidad,49,10,12.20,16.95,597.80,Disponible,2026-10-22
+INV-00591,Sonsonate,GUA-0111,Alimento para perro adulto,Mascotas y jardín,Dog Chow,Bolsa 2 kg,17,10,6.52,7.95,110.84,Disponible,2026-10-22
+INV-00592,Sonsonate,GUA-0112,Alimento para gato adulto,Mascotas y jardín,Cat Chow,Bolsa 1.5 kg,24,10,6.97,8.50,167.28,Disponible,2026-10-22
+INV-00593,Sonsonate,GUA-0113,Alimento húmedo para gato,Mascotas y jardín,Whiskas,Sobre 85 g,16,20,0.55,0.75,8.80,Stock bajo,2026-10-22
+INV-00594,Sonsonate,GUA-0114,Arena para gato,Mascotas y jardín,Great Value,Bolsa 4 kg,17,10,4.94,5.95,83.98,Disponible,2026-10-22
+INV-00595,Sonsonate,GUA-0115,Champú para perro,Mascotas y jardín,Hartz,Botella 532 ml,46,10,4.10,5.25,188.60,Disponible,2026-10-22
+INV-00596,Sonsonate,GUA-0116,Plato para mascota,Mascotas y jardín,Mainstays,Unidad 500 ml,118,20,2.08,2.50,245.44,Disponible,2026-10-22
+INV-00597,Sonsonate,GUA-0117,Maceta plástica,Mascotas y jardín,Mainstays,Unidad 20 cm,49,20,2.27,2.95,111.23,Disponible,2026-10-22
+INV-00598,Sonsonate,GUA-0118,Tierra abonada,Mascotas y jardín,Gualmart Jardín,Bolsa 5 kg,129,20,2.66,3.50,343.14,Disponible,2026-10-22
+INV-00599,Sonsonate,GUA-0119,Manguera de jardín,Mascotas y jardín,Mainstays,Unidad 15 m,60,10,10.76,14.95,645.60,Disponible,2026-10-22
+INV-00600,Sonsonate,GUA-0120,Regadera de jardín,Mascotas y jardín,Mainstays,Unidad 5 L,50,10,4.80,6.95,240.00,Disponible,2026-10-22
