@@ -17,4 +17,4 @@
 Abdiel Alfredo Hernández Vásquez - SMSS077825<br>
 Ruth Isabel amaya Berrios - SMSS061025
 <h2>Informe de consultoria</h2>
-
+<a href="docs/Informe%20de%20consultoría.pdf">Ver informe</a>
