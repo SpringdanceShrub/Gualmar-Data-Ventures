@@ -74,7 +74,7 @@ class Ventana(QMainWindow):
         central.setLayout(layout)
         self.setCentralWidget(central)
 
-
+# Bloque principal de ejecución de la aplicación
 app = QApplication(sys.argv)
 ventana = Ventana()
 ventana.show()
