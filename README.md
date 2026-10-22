@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/platform-windows-0078D4.svg"/>
   </p>
 </div>
-
----
-
 <h2>Integrantes</h2>
 Abdiel Alfredo Hernández Vásquez - SMSS077825<br>
 Ruth Isabel amaya Berrios - SMSS061025
