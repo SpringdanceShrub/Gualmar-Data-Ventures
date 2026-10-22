@@ -12,9 +12,12 @@
   <img src="https://img.shields.io/badge/python-3.14-3776AB.svg"/> 
   <img src="https://img.shields.io/badge/platform-windows-0078D4.svg"/>
   </p>
-  <h2></h2>
-  <h2>Integrantes</h2>
-  Abdiel Alfredo Hernández Vásquez - SMSS077825
-  Ruth Isabel amaya Berrios - SMSS061025
-  <h2>Informe de consultoria</h2>
 </div>
+
+---
+
+<h2>Integrantes</h2>
+Abdiel Alfredo Hernández Vásquez - SMSS077825<br>
+Ruth Isabel amaya Berrios - SMSS061025
+<h2>Informe de consultoria</h2>
+
