@@ -8,7 +8,6 @@ from matplotlib.figure import Figure
 df = pd.read_csv('dataset/inventario_gualmart.csv')
 
 
-# 3. Funciones de inspeccion con Pandas
 print('PRIMERAS 5 FILAS')
 print(df.head())
 
@@ -31,7 +30,7 @@ print('\nESTADISTICAS BASICAS')
 print(df.describe())
 
 
-# 4. Interfaz grafica con PyQt5 y Matplotlib
+#Interfaz grafica con PyQt5 y Matplotlib
 class Ventana(QMainWindow):
     def __init__(self):
         super().__init__()
@@ -39,15 +38,12 @@ class Ventana(QMainWindow):
         self.setWindowTitle('Inventario Gualmart')
         self.resize(900, 700)
 
-        # Datos para los graficos
         stock_sucursal = df.groupby('sucursal')['cantidad'].sum()
         valor_categoria = df.groupby('categoria')['valor_inventario_usd'].sum()
 
-        # Crear figura y canvas
         self.figura = Figure(figsize=(8, 7))
         self.canvas = FigureCanvas(self.figura)
 
-        # Grafico 1: cantidad total por sucursal
         ax1 = self.figura.add_subplot(211)
         ax1.bar(stock_sucursal.index, stock_sucursal.values)
         ax1.set_title('Cantidad total de productos por sucursal')
@@ -55,7 +51,6 @@ class Ventana(QMainWindow):
         ax1.set_ylabel('Cantidad')
         ax1.tick_params(axis='x', rotation=15)
 
-        # Grafico 2: valor del inventario por categoria
         ax2 = self.figura.add_subplot(212)
         ax2.bar(valor_categoria.index, valor_categoria.values)
         ax2.set_title('Valor del inventario por categoria')
@@ -65,14 +60,12 @@ class Ventana(QMainWindow):
 
         self.figura.tight_layout()
 
-        # Texto informativo
         texto = QLabel(
             'Registros: ' + str(df.shape[0]) +
             '   |   Columnas: ' + str(df.shape[1]) +
             '   |   Sucursales: ' + str(df['sucursal'].nunique())
         )
 
-        # Layout principal
         layout = QVBoxLayout()
         layout.addWidget(texto)
         layout.addWidget(self.canvas)
